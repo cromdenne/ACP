@@ -23,16 +23,33 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 1.5em;
 }
 
+.rule-light {
+  border-color: #cacaca;
+}
+
+.unstyled {
+  padding-left: 5px;
+  list-style: none;
+  line-height: 2em;
+}
+
+.btn-area {
+  padding-top: 25px;
+}
+
 .moreBtn {
   padding: 15px;
   border: 2px solid #ffb81c;
   background-color: transparent;
+  text-decoration: none;
+  color: #3a3a3a;
   transition: all 500ms;
 }
 
 .moreBtn:hover,
 .moreBtn:active,
 .moreBtn:focus {
+  text-decoration: none;
   background-color: #782f40;
   color: #ffffff;
 }
@@ -135,7 +152,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #pane-left {
   background-color: #ffffff;
-  padding: 25px 0;
+  padding: 25px;
 }
 
 #svg:hover #Know,
@@ -153,6 +170,13 @@ h1, h2, h3, h4, h5, h6 {
 
 .textHidden {
   display: none;
+}
+
+/*===========================================================================*/
+/*  SIDEBAR                                                                  */
+/*===========================================================================*/
+.sidebar {
+  background-color: #ffb81c;
 }
 
 /*===========================================================================*/
