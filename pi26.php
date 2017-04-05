@@ -8,78 +8,28 @@
         <meta name="keywords" content="Luxemburg-Casco,Wisconsin,ACP,Academic,Career,Planning">
         <meta name="author" content="Cory Romdenne">
         
-        <title>L-C ACP – Plan</title>
+        <title>L-C ACP – P.I. 26 &amp; ACP</title>
         
-        <!-- Bootstrap CSS -->
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-        
-        <!-- Font Awesome -->
-        <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-        
-        <!-- Google Fonts -->
-        <link href="https://fonts.googleapis.com/css?family=Yellowtail|Quicksand" rel="stylesheet">
-        
-        <!-- custom styles -->
-        <link href="css/style.css" rel="stylesheet">
-    
+        <?php include 'templates/head.php'; ?>
+                    
     </head>
     
     <body>
-    
+
         <div class="container-fluid">
-
-            <div id="header" class="row text-center">
-                <p>LUXEMBURG–CASCO SCHOOL DISTRICT</p>
-                <h1 class="site-title golden">Academic &amp; Career Planning</h1>
-                <h2 class="golden">Arm Yourself for Success</h2>
-                <h4>To be College &amp; Career Ready</h4>
-            </div><!-- /#header -->
-
-            <div id="navigation" class="row">
-                <nav class="navbar navbar-inverse">
-                  <div class="container-fluid">
-                    <!-- Brand and toggle get grouped for better mobile display -->
-                    <div class="navbar-header">
-                      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#acp-navbar" aria-expanded="false">
-                        <span class="sr-only">Toggle navigation</span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                      </button><!-- /.navbar-toggle -->
-                      <a class="navbar-brand" href="#"></a>
-                    </div><!-- /.navbar-header -->
-
-                    <!-- Collect the nav links, forms, and other content for toggling -->
-                    <div class="collapse navbar-collapse" id="acp-navbar">
-                      <ul class="nav navbar-nav">
-                        <li><a href="index.html">Home</a></li>
-                        <li><a href="know.html">Know</a></li>
-                        <li><a href="explore.html">Explore</a></li>
-                        <li class="active"><a href="plan.html">Plan <span class="sr-only">(current)</span></a></li>
-                        <li><a href="go.html">Go</a></li>
-                        <li><a href="pi26.html">PI 26 &amp; ACP</a></li>
-
-                        <li class="dropdown">
-                          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Parents <span class="caret"></span></a>
-                          <ul class="dropdown-menu">
-                            <li><a href="#">High School</a></li>
-                            <li><a href="#">Middle School</a></li>
-                            <li><a href="#">Intermediate School</a></li>
-                            <li><a href="#">Primary School</a></li>
-                          </ul><!-- /.dropdown-menu -->
-                        </li><!-- /.dropdown -->
-
-                        <li><a href="#">Contact</a></li>
-
-                      </ul><!-- /.nav -->
-                    </div><!-- /.navbar-collapse -->
-                  </div><!-- /.container-fluid -->
-                </nav><!-- /.navbar -->
-            </div><!-- /#navigation -->
+        
+            <?php include 'templates/mast-begin.php'; ?>
+                            <li><a href="index.php">Home</a></li>
+                            <li><a href="know.php">Know</a></li>
+                            <li><a href="explore.php">Explore</a></li>
+                            <li><a href="plan.php">Plan</a></li>
+                            <li><a href="go.php">Go</a></li>
+                            <li class="active"><a href="pi26.php">PI 26 &amp; ACP <span class="sr-only">(current)</span></a></li>
+                <?php include 'templates/mast-end.php'; ?>
 
             <div id="content" class="row row-eq-height">
                 <div id="pane-left" class="col-md-9">
-                    <h1>Plan</h1>
+                    <h1>P.I. 26 &amp; ACP</h1>
                     <img src="images/spear.png" width="100%" alt="spear header underline">
                     <br><br>
                     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.</p>
@@ -137,23 +87,11 @@
 
             </div><!-- /#content -->
 
-            <div id="footer" class="row">
-
-            </div><!-- /#footer -->
+            <?php include 'templates/footer.php'; ?>
 
         </div><!-- /.container-fluid -->
         
-        <!-- jQuery -->
-        <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
-        
-        <!-- Bootstrap JavaScript -->
-        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-        
-        <!-- Snap.svg -->
-        <script src="js/Snap.svg-0.4.1/dist/snap.svg.js"></script>
-        
-        <!-- custom scripts -->
-        <script src="js/scripts.js"></script>
+        <?php include 'templates/scripts.php'; ?>
              
     </body>
 </html>

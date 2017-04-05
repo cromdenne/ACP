@@ -10,72 +10,22 @@
         
         <title>Academic &amp; Career Planning - Luxemburg-Casco School District</title>
         
-        <!-- Bootstrap CSS -->
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-        
-        <!-- Font Awesome -->
-        <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-        
-        <!-- Google Fonts -->
-        <link href="https://fonts.googleapis.com/css?family=Yellowtail|Quicksand" rel="stylesheet">
-        
-        <!-- custom styles -->
-        <link href="css/style.css" rel="stylesheet">
+        <?php include 'templates/head.php'; ?>
     
     </head>
     
     <body>
-    
+
         <div class="container-fluid">
 
-            <div id="header" class="row text-center">
-                <p>LUXEMBURG–CASCO SCHOOL DISTRICT</p>
-                <h1 class="site-title golden">Academic &amp; Career Planning</h1>
-                <h2 class="golden">Arm Yourself for Success</h2>
-                <h4>To be College &amp; Career Ready</h4>
-            </div><!-- /#header -->
-
-            <div id="navigation" class="row">
-                <nav class="navbar navbar-inverse">
-                  <div class="container-fluid">
-                    <!-- Brand and toggle get grouped for better mobile display -->
-                    <div class="navbar-header">
-                      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#acp-navbar" aria-expanded="false">
-                        <span class="sr-only">Toggle navigation</span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                      </button><!-- /.navbar-toggle -->
-                      <a class="navbar-brand" href="#"></a>
-                    </div><!-- /.navbar-header -->
-
-                    <!-- Collect the nav links, forms, and other content for toggling -->
-                    <div class="collapse navbar-collapse" id="acp-navbar">
-                      <ul class="nav navbar-nav">
-                        <li class="active"><a href="index.html">Home <span class="sr-only">(current)</span></a></li>
-                        <li><a href="know.html">Know</a></li>
-                        <li><a href="explore.html">Explore</a></li>
-                        <li><a href="plan.html">Plan</a></li>
-                        <li><a href="go.html">Go</a></li>
-                        <li><a href="pi26.html">PI 26 &amp; ACP</a></li>
-
-                        <li class="dropdown">
-                          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Parents <span class="caret"></span></a>
-                          <ul class="dropdown-menu">
-                            <li><a href="#">High School</a></li>
-                            <li><a href="#">Middle School</a></li>
-                            <li><a href="#">Intermediate School</a></li>
-                            <li><a href="#">Primary School</a></li>
-                          </ul><!-- /.dropdown-menu -->
-                        </li><!-- /.dropdown -->
-
-                        <li><a href="#">Contact</a></li>
-
-                      </ul><!-- /.nav -->
-                    </div><!-- /.navbar-collapse -->
-                  </div><!-- /.container-fluid -->
-                </nav><!-- /.navbar -->
-            </div><!-- /#navigation -->
+            <?php include 'templates/mast-begin.php'; ?>
+                            <li class="active"><a href="index.php">Home <span class="sr-only">(current)</span></a></li>
+                            <li><a href="know.php">Know</a></li>
+                            <li><a href="explore.php">Explore</a></li>
+                            <li><a href="plan.php">Plan</a></li>
+                            <li><a href="go.php">Go</a></li>
+                            <li><a href="pi26.php">PI 26 &amp; ACP</a></li>
+                <?php include 'templates/mast-end.php'; ?>
 
             <div id="content" class="row row-eq-height">
                 
@@ -97,7 +47,7 @@
                         <p>It was determined that rather than creating a new rule addressing ACP, the current PI26 would be updated and revised to include the required ACP components.</p>
                         <p><a class="hvr" href="http://dpi.wi.gov/acp/rule" target="_blank">Learn more about PI 26 on the DPI website</a></p>
                         <div class="text-center btn-area">
-                            <a class="moreBtn" href="pi26.html">MORE INFO</a>
+                            <a class="moreBtn" href="pi26.php">MORE INFO</a>
                         </div>
                     </div><!-- /.textSpartan -->
                     <div id="textKnow" class="textHidden">
@@ -105,7 +55,7 @@
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dapibus vehicula porttitor. Integer porta laoreet augue, at congue sem mollis non. Mauris tempor dui non ligula porttitor, quis consectetur ipsum cursus. Cras mollis eros nec mattis laoreet. Maecenas faucibus, leo et maximus lobortis, metus magna congue ex, eu rhoncus sapien lorem nec metus. Mauris ac varius urna. Integer ac volutpat justo. Cras vel nulla sit amet quam hendrerit elementum in eget est. Morbi vitae tincidunt odio. Aliquam ac rutrum lectus. In sit amet nulla id lorem facilisis laoreet vitae vel sapien.</p>
                         <p>In faucibus accumsan risus semper accumsan. Nam id feugiat mauris. Proin eget viverra velit, at ultricies est. Ut enim leo, posuere in feugiat a, molestie vel ipsum. In ultrices, turpis quis pretium tincidunt, odio ligula hendrerit mi, a malesuada felis risus a nisl. Pellentesque malesuada eget urna vel placerat. Fusce eget dapibus lorem. Vivamus nec leo sed justo dapibus mollis.</p>
                         <div class="text-center btn-area">
-                            <a class="moreBtn" href="know.html">MORE INFO</a>
+                            <a class="moreBtn" href="know.php">MORE INFO</a>
                         </div>
                     </div><!-- /.textKnow -->
                     <div id="textExplore" class="textHidden">
@@ -113,14 +63,14 @@
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dapibus vehicula porttitor. Integer porta laoreet augue, at congue sem mollis non. Mauris tempor dui non ligula porttitor, quis consectetur ipsum cursus. Cras mollis eros nec mattis laoreet. Maecenas faucibus, leo et maximus lobortis, metus magna congue ex, eu rhoncus sapien lorem nec metus. Mauris ac varius urna. Integer ac volutpat justo. Cras vel nulla sit amet quam hendrerit elementum in eget est. Morbi vitae tincidunt odio. Aliquam ac rutrum lectus. In sit amet nulla id lorem facilisis laoreet vitae vel sapien.</p>
                         <p>In faucibus accumsan risus semper accumsan. Nam id feugiat mauris. Proin eget viverra velit, at ultricies est. Ut enim leo, posuere in feugiat a, molestie vel ipsum. In ultrices, turpis quis pretium tincidunt, odio ligula hendrerit mi, a malesuada felis risus a nisl. Pellentesque malesuada eget urna vel placerat. Fusce eget dapibus lorem. Vivamus nec leo sed justo dapibus mollis.</p>
                         <div class="text-center btn-area">
-                            <a class="moreBtn" href="explore.html">MORE INFO</a>
+                            <a class="moreBtn" href="explore.php">MORE INFO</a>
                         </div>
                     </div><!-- /.textExplore -->
                     <div id="textPlan" class="textHidden">
                         <h3>PLAN</h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dapibus vehicula porttitor. Integer porta laoreet augue, at congue sem mollis non. Mauris tempor dui non ligula porttitor, quis consectetur ipsum cursus. Cras mollis eros nec mattis laoreet. Maecenas faucibus, leo et maximus lobortis, metus magna congue ex, eu rhoncus sapien lorem nec metus. Mauris ac varius urna. Integer ac volutpat justo. Cras vel nulla sit amet quam hendrerit elementum in eget est. Morbi vitae tincidunt odio. Aliquam ac rutrum lectus. In sit amet nulla id lorem facilisis laoreet vitae vel sapien.</p>
                         <p>In faucibus accumsan risus semper accumsan. Nam id feugiat mauris. Proin eget viverra velit, at ultricies est. Ut enim leo, posuere in feugiat a, molestie vel ipsum. In ultrices, turpis quis pretium tincidunt, odio ligula hendrerit mi, a malesuada felis risus a nisl. Pellentesque malesuada eget urna vel placerat. Fusce eget dapibus lorem. Vivamus nec leo sed justo dapibus mollis.</p><div class="text-center btn-area">
-                            <a class="moreBtn" href="plan.html">MORE INFO</a>
+                            <a class="moreBtn" href="plan.php">MORE INFO</a>
                         </div>
                     </div><!-- /.textPlan -->
                     <div id="textGo" class="textHidden">
@@ -128,30 +78,18 @@
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dapibus vehicula porttitor. Integer porta laoreet augue, at congue sem mollis non. Mauris tempor dui non ligula porttitor, quis consectetur ipsum cursus. Cras mollis eros nec mattis laoreet. Maecenas faucibus, leo et maximus lobortis, metus magna congue ex, eu rhoncus sapien lorem nec metus. Mauris ac varius urna. Integer ac volutpat justo. Cras vel nulla sit amet quam hendrerit elementum in eget est. Morbi vitae tincidunt odio. Aliquam ac rutrum lectus. In sit amet nulla id lorem facilisis laoreet vitae vel sapien.</p>
                         <p>In faucibus accumsan risus semper accumsan. Nam id feugiat mauris. Proin eget viverra velit, at ultricies est. Ut enim leo, posuere in feugiat a, molestie vel ipsum. In ultrices, turpis quis pretium tincidunt, odio ligula hendrerit mi, a malesuada felis risus a nisl. Pellentesque malesuada eget urna vel placerat. Fusce eget dapibus lorem. Vivamus nec leo sed justo dapibus mollis.</p>
                         <div class="text-center btn-area">
-                            <a class="moreBtn" href="go.html">MORE INFO</a>
+                            <a class="moreBtn" href="go.php">MORE INFO</a>
                         </div>
                     </div><!-- /.textGo -->
                 </div><!-- /#pane-right -->
 
             </div><!-- /#content -->
 
-            <div id="footer" class="row">
-
-            </div><!-- /#footer -->
+            <?php include 'templates/footer.php'; ?>
 
         </div><!-- /.container-fluid -->
         
-        <!-- jQuery -->
-        <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
-        
-        <!-- Bootstrap JavaScript -->
-        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-        
-        <!-- Snap.svg -->
-        <script src="js/Snap.svg-0.4.1/dist/snap.svg.js"></script>
-        
-        <!-- custom scripts -->
-        <script src="js/scripts.js"></script>
+        <?php include 'templates/scripts.php'; ?>
              
     </body>
 </html>

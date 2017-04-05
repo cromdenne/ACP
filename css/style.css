@@ -4,7 +4,7 @@
 body {
   background-color: #eeeeee;
   color: #3a3a3a;
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'Quattrocento Sans', sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -183,6 +183,14 @@ h1, h2, h3, h4, h5, h6 {
 /*  FOOTER                                                                   */
 /*===========================================================================*/
 #footer {
-  min-height: 200px;
+  padding: 50px;
   background-color: #434343;
+  color: #ffffff;
+} @media (max-width: 992px) {
+    #footer {
+      text-align: center;
+    }
+    #footer-right {
+      display: none;
+    }
 }
