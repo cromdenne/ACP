@@ -1,5 +1,5 @@
     <div id="header" class="row text-center">
-                    <p>LUXEMBURG-CASCO SCHOOL DISTRICT</p>
+                    <p class="serif">LUXEMBURG-CASCO SCHOOL DISTRICT</p>
                     <h1 class="site-title golden">Academic &amp; Career Planning</h1>
                     <h2 class="golden">Arm Yourself for Success</h2>
                     <h4>To be College &amp; Career Ready</h4>

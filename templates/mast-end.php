@@ -7,9 +7,6 @@
                                 <li><a href="#">Primary School</a></li>
                               </ul><!-- /.dropdown-menu -->
                             </li><!-- /.dropdown -->
-
-                            <li><a href="#">Contact</a></li>
-
                           </ul><!-- /.nav -->
                         </div><!-- /.navbar-collapse -->
                       </div><!-- /.container-fluid -->
