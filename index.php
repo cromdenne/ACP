@@ -25,6 +25,7 @@
                             <li><a href="plan.php">Plan</a></li>
                             <li><a href="go.php">Go</a></li>
                             <li><a href="pi26.php">PI 26 &amp; ACP</a></li>
+                            <li><a href="parents.php">Parents</a></li>
                 <?php include 'templates/mast-end.php'; ?>
 
             <div id="content" class="row row-eq-height">
@@ -52,31 +53,61 @@
                     </div><!-- /.textSpartan -->
                     <div id="textKnow" class="textHidden">
                         <h3>KNOW</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dapibus vehicula porttitor. Integer porta laoreet augue, at congue sem mollis non. Mauris tempor dui non ligula porttitor, quis consectetur ipsum cursus. Cras mollis eros nec mattis laoreet. Maecenas faucibus, leo et maximus lobortis, metus magna congue ex, eu rhoncus sapien lorem nec metus. Mauris ac varius urna. Integer ac volutpat justo. Cras vel nulla sit amet quam hendrerit elementum in eget est. Morbi vitae tincidunt odio. Aliquam ac rutrum lectus. In sit amet nulla id lorem facilisis laoreet vitae vel sapien.</p>
-                        <p>In faucibus accumsan risus semper accumsan. Nam id feugiat mauris. Proin eget viverra velit, at ultricies est. Ut enim leo, posuere in feugiat a, molestie vel ipsum. In ultrices, turpis quis pretium tincidunt, odio ligula hendrerit mi, a malesuada felis risus a nisl. Pellentesque malesuada eget urna vel placerat. Fusce eget dapibus lorem. Vivamus nec leo sed justo dapibus mollis.</p>
+                        <p class="subheader">Who am I?</p>
+                        <p>Get to know your interests, skills and strengths. This stage includes:</p>
+                        <ul>
+                            <li>Periodic self-assessment of interests and strengths</li>
+                            <li>Reflection and goal-setting</li>
+                            <li>Financial knowledge and understanding of resources</li>
+                            <li>Academic courses and skill preparation</li>
+                            <li>Behavioral and employability skill preparation</li>
+                        </ul>
+                        <br>
                         <div class="text-center btn-area">
                             <a class="moreBtn" href="know.php">MORE INFO</a>
                         </div>
                     </div><!-- /.textKnow -->
                     <div id="textExplore" class="textHidden">
                         <h3>EXPLORE</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dapibus vehicula porttitor. Integer porta laoreet augue, at congue sem mollis non. Mauris tempor dui non ligula porttitor, quis consectetur ipsum cursus. Cras mollis eros nec mattis laoreet. Maecenas faucibus, leo et maximus lobortis, metus magna congue ex, eu rhoncus sapien lorem nec metus. Mauris ac varius urna. Integer ac volutpat justo. Cras vel nulla sit amet quam hendrerit elementum in eget est. Morbi vitae tincidunt odio. Aliquam ac rutrum lectus. In sit amet nulla id lorem facilisis laoreet vitae vel sapien.</p>
-                        <p>In faucibus accumsan risus semper accumsan. Nam id feugiat mauris. Proin eget viverra velit, at ultricies est. Ut enim leo, posuere in feugiat a, molestie vel ipsum. In ultrices, turpis quis pretium tincidunt, odio ligula hendrerit mi, a malesuada felis risus a nisl. Pellentesque malesuada eget urna vel placerat. Fusce eget dapibus lorem. Vivamus nec leo sed justo dapibus mollis.</p>
+                        <p class="subheader">Where do I want to go?</p>
+                        <p>Explore career pathways and education opportunities. This stage includes:</p>
+                        <ul>
+                            <li>Middle School career exploration activities and opportunities</li>
+                            <li>High School career exploration activities and opportunities</li>
+                            <li>Financial knowledge and understanding of resources</li>
+                            <li>World of work and labor market needs</li>
+                            <li>Understanding and comparing different postsecondary education and training</li>
+                        </ul>
+                        <br>
                         <div class="text-center btn-area">
                             <a class="moreBtn" href="explore.php">MORE INFO</a>
                         </div>
                     </div><!-- /.textExplore -->
                     <div id="textPlan" class="textHidden">
                         <h3>PLAN</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dapibus vehicula porttitor. Integer porta laoreet augue, at congue sem mollis non. Mauris tempor dui non ligula porttitor, quis consectetur ipsum cursus. Cras mollis eros nec mattis laoreet. Maecenas faucibus, leo et maximus lobortis, metus magna congue ex, eu rhoncus sapien lorem nec metus. Mauris ac varius urna. Integer ac volutpat justo. Cras vel nulla sit amet quam hendrerit elementum in eget est. Morbi vitae tincidunt odio. Aliquam ac rutrum lectus. In sit amet nulla id lorem facilisis laoreet vitae vel sapien.</p>
-                        <p>In faucibus accumsan risus semper accumsan. Nam id feugiat mauris. Proin eget viverra velit, at ultricies est. Ut enim leo, posuere in feugiat a, molestie vel ipsum. In ultrices, turpis quis pretium tincidunt, odio ligula hendrerit mi, a malesuada felis risus a nisl. Pellentesque malesuada eget urna vel placerat. Fusce eget dapibus lorem. Vivamus nec leo sed justo dapibus mollis.</p><div class="text-center btn-area">
+                        <p class="subheader">How do I get there?</p>
+                        <p>Set your route! Set goals, choose courses, join clubs and activities, obtain financing, fill out applications and write resumes. This stage includes:</p>
+                        <ul>
+                            <li>Planning skills</li>
+                            <li>The Middle School plan</li>
+                            <li>The High School plan</li>
+                        </ul>
+                        <br>
+                        <div class="text-center btn-area">
                             <a class="moreBtn" href="plan.php">MORE INFO</a>
                         </div>
                     </div><!-- /.textPlan -->
                     <div id="textGo" class="textHidden">
                         <h3>GO</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dapibus vehicula porttitor. Integer porta laoreet augue, at congue sem mollis non. Mauris tempor dui non ligula porttitor, quis consectetur ipsum cursus. Cras mollis eros nec mattis laoreet. Maecenas faucibus, leo et maximus lobortis, metus magna congue ex, eu rhoncus sapien lorem nec metus. Mauris ac varius urna. Integer ac volutpat justo. Cras vel nulla sit amet quam hendrerit elementum in eget est. Morbi vitae tincidunt odio. Aliquam ac rutrum lectus. In sit amet nulla id lorem facilisis laoreet vitae vel sapien.</p>
-                        <p>In faucibus accumsan risus semper accumsan. Nam id feugiat mauris. Proin eget viverra velit, at ultricies est. Ut enim leo, posuere in feugiat a, molestie vel ipsum. In ultrices, turpis quis pretium tincidunt, odio ligula hendrerit mi, a malesuada felis risus a nisl. Pellentesque malesuada eget urna vel placerat. Fusce eget dapibus lorem. Vivamus nec leo sed justo dapibus mollis.</p>
+                        <p class="subheader">Do it!</p>
+                        <p>Carry out your plan, and recalculate as needed. This stage includes:</p>
+                        <ul>
+                            <li>Executing your plan</li>
+                            <li>Updating the plan with new information and artifacts</li>
+                            <li>Conferencing and mentoring</li>
+                            <li>Transitioning ACP Components</li>
+                        </ul>
+                        <br>
                         <div class="text-center btn-area">
                             <a class="moreBtn" href="go.php">MORE INFO</a>
                         </div>

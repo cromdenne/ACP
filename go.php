@@ -8,7 +8,7 @@
         <meta name="keywords" content="Luxemburg-Casco,Wisconsin,ACP,Academic,Career,Planning">
         <meta name="author" content="Cory Romdenne">
         
-        <title>L-C ACP – Go</title>
+        <title>Go – L-C ACP</title>
         
         <?php include 'templates/head.php'; ?>
             
@@ -25,6 +25,7 @@
                             <li><a href="plan.php">Plan</a></li>
                             <li class="active"><a href="go.php">Go <span class="sr-only">(current)</span></a></li>
                             <li><a href="pi26.php">PI 26 &amp; ACP</a></li>
+                            <li><a href="parents.php">Parents</a></li>
                 <?php include 'templates/mast-end.php'; ?>
 
             <div id="content" class="row row-eq-height">
@@ -34,45 +35,14 @@
                     <br><br>
                     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.</p>
                     <hr class="rule-light">
-                    <h4>High School</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
-                    <ul>
-                        <li><a class="hvr" href="#">Example link</a></li>
-                        <li><a class="hvr" href="#">Example link</a></li>
-                        <li><a class="hvr" href="#">Example link</a></li>
-                        <li><a class="hvr" href="#">Example link</a></li>
-                        <li><a class="hvr" href="#">Example link</a></li>
-                    </ul>
-                    <hr class="rule-light">
-                    <h4>Middle School</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
-                    <ul>
-                        <li><a class="hvr" href="#">Example link</a></li>
-                        <li><a class="hvr" href="#">Example link</a></li>
-                        <li><a class="hvr" href="#">Example link</a></li>
-                        <li><a class="hvr" href="#">Example link</a></li>
-                        <li><a class="hvr" href="#">Example link</a></li>
-                    </ul>
-                    <hr class="rule-light">
-                    <h4>Intermediate School</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
-                    <ul>
-                        <li><a class="hvr" href="#">Example link</a></li>
-                        <li><a class="hvr" href="#">Example link</a></li>
-                        <li><a class="hvr" href="#">Example link</a></li>
-                        <li><a class="hvr" href="#">Example link</a></li>
-                        <li><a class="hvr" href="#">Example link</a></li>
-                    </ul>
-                    <hr class="rule-light">
-                    <h4>Primary School</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
-                    <ul>
-                        <li><a class="hvr" href="#">Example link</a></li>
-                        <li><a class="hvr" href="#">Example link</a></li>
-                        <li><a class="hvr" href="#">Example link</a></li>
-                        <li><a class="hvr" href="#">Example link</a></li>
-                        <li><a class="hvr" href="#">Example link</a></li>
-                    </ul>
+                    <p>
+                        <a class="hvr" href="http://www.military.com/join-armed-forces/us-military-overview.html" target="_blank">U.S. Armed Forces Overview</a><br>
+                        <a class="hvr" href="https://jobcenterofwisconsin.com" target="_blank">Job Center of Wisconsin</a><br>
+                        <a class="hvr" href="http://www.wistechcolleges.org/" target="_blank">Wisconsin Tech Colleges</a><br>
+                        <a class="hvr" href="http://www.wtcsystem.edu/" target="_blank">Wisconsin Technical College System</a><br>
+                        <a class="hvr" href="http://www.wisconsinsprivatecolleges.org" target="_blank">Wisconsin Private Colleges</a><br>
+                        <a class="hvr" href="https://www.wisconsin.edu" target="_blank">University of Wisconsin Colleges</a><br>
+                    </p>
                     <br>
                 </div><!-- /#main -->
                 <div id="pane-right" class="col-md-3 sidebar">

@@ -15,6 +15,11 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 64px;
 }
 
+.subheader {
+  font-style: italic;
+  font-size: 1.25em;
+}
+
 .golden {
   color: #ffb81c;
 }
@@ -31,6 +36,10 @@ h1, h2, h3, h4, h5, h6 {
   padding-left: 5px;
   list-style: none;
   line-height: 2em;
+}
+
+.no-space {
+  margin-top: -10px;
 }
 
 .btn-area {
@@ -57,7 +66,7 @@ h1, h2, h3, h4, h5, h6 {
 /*===========================================================================*/
 /*  CUSTOM HOVER EFFECTS                                                     */
 /*===========================================================================*/
-.hvr, .hvr:hover, .hvr:active, .hvr:visited {
+.hvr, .hvr:hover, .hvr:active, .hvr:visited, .hvr:focus {
   position: relative;
   color: #ff4258;
   text-decoration: none;
