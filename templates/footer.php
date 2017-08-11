@@ -13,6 +13,6 @@
                 </div>
                 <div id="footer-right" class="col-md-3 col-md-offset-1 text-right">
                     <p>MISSION<br>
-                    Preparing our students to thrive in a global community by ensuring excellence in intellect and virtue. We are Spartans.</p>
+                    Preparing our students to thrive in a global community by ensuring excellence in intellect and virtue. We are Spartans!</p>
                 </div>
             </div><!-- /#footer -->

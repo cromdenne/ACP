@@ -30,24 +30,34 @@
 
             <div id="content" class="row row-eq-height">
                 <div id="pane-left" class="col-md-9">
-                    <h1>P.I. 26 &amp; ACP</h1>
+                    <h1>PI 26 &amp; ACP</h1>
                     <img src="images/spear.png" width="100%" alt="spear header underline">
                     <br><br>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.</p>
-                    <hr class="rule-light">
                     <p>
-                        <a class="hvr" href="https://dpi.wi.gov/sites/default/files/imce/acp/pdf/pi26memo0108.pdf" target="_blank">PI 26</a><br>
-                        <a class="hvr" href="https://dpi.wi.gov/acp" target="_blank">DPI ACP Resources</a><br>
+                        Beginning with the 2017-2018 school year in the state of Wisconsin, every school board and district is required to provide academic and career planning services to students in grades 6-12 enrolled in the district. In addition under PI 26, school boards and districts must meet the following requirements:
+                        <ul>
+                            <li>Develop a long-range plan with school district staff and community stakeholders.</li>
+                            <li>Publish the plan on the school district’s website.</li>
+                            <li>Review the plan yearly.</li>
+                        </ul>
                     </p>
                     <br>
+                    <p>
+                        This plan must address:
+                        <ul>
+                            <li>Local, regional, and state market needs.</li>
+                            <li>Education and training requirements for occupations that will fill labor market needs.</li>
+                            <li>Process to engage parents regarding ACP services provided and opportunities to participate.</li>
+                            <li>Description of career and technical education (CTE) programming available, staff professional development for ACP delivery, and how school district will meet education for employment program requirements.</li>
+                            <li>Strategy to engage business, postsecondary education, and workforce development.</li>
+                        </ul>
+                    </p>
                 </div><!-- /#main -->
                 <div id="pane-right" class="col-md-3 sidebar">
                     <h3>Resources</h3>
                     <ul class="unstyled">
-                        <li><a class="hvr" href="#">Example resource</a></li>
-                        <li><a class="hvr" href="#">Example resource</a></li>
-                        <li><a class="hvr" href="#">Example resource</a></li>
-                        <li><a class="hvr" href="#">Example resource</a></li>
+                        <li><a class="hvr" href="https://dpi.wi.gov/sites/default/files/imce/acp/pdf/pi26memo0108.pdf" target="_blank">PI 26</a></li>
+                        <li><a class="hvr" href="https://dpi.wi.gov/acp" target="_blank">DPI ACP Resources</a></li>
                     </ul>
                 </div><!-- /#sidebar -->
 

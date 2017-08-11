@@ -36,11 +36,10 @@
                 
                 <div id="pane-right" class="col-md-5">
                     <div id="textDefault">
-                        <h3>WHAT IS ACP?</h3>
-                        <p>Academic and Career Planning, or ACP, is a student-driven, adult-supported process in which students create and cultivate their own unique and information-based visions for post secondary success, obtained through self-exploration, career exploration, and the development of career management and planning skills.</p>
-                        <p><a class="hvr" href="http://dpi.wi.gov/acp" target="_blank">Learn more about ACP on the DPI website</a></p>
                         <h3>WHY ACP?</h3>
-                        <p>College and career readiness is much more than academics. Wisconsin graduates must have the knowledge, skills, and habits that will allow them to succeed in the workforce after high school. Wisconsin students should be able to think critically, collaborate, demonstrate leadership, use creativity, accept responsibility, and maintain problem-solving skills throughout their lifetime. Presenters should review the Tony Evers - <em>Value of ACP, Why ACP Matters,</em> and ACP 101 videos at <a class="hvr" href="http://dpi.wi.gov/acp" target="_blank">dpi.wi.gov/acp</a>.</p>
+                        <p>Do you know someone who said “I want to be a doctor!” and started out as a pre-med major, only to realize they really weren’t good at math? Do you know someone who was great at working on cars, but realized they hated being a mechanic? Many people go into college majoring in something they think they like, but aren’t necessarily good at; many people enter the workforce doing a job they’re good at, but don’t really like. ACP aims to change this and find the perfect fit where students are both good at and enjoy their work.</p>
+                        <h3>WHAT IS ACP?</h3>
+                        <p>When students leverage their own interests and abilities, they can enhance their success after high school. Going through the ACP process will allow students to be college and career ready with an arsenal of skills critical to success in post-secondary endeavors, while helping them find post-secondary options that take into account those very interests and abilities.</p>
                     </div><!-- /#textDefault -->
                     <div id="textSpartan" class="textHidden">
                         <h3>WHAT IS PI 26?</h3>
@@ -53,7 +52,7 @@
                     </div><!-- /.textSpartan -->
                     <div id="textKnow" class="textHidden">
                         <h3>KNOW</h3>
-                        <p class="subheader">Who am I?</p>
+                        <h4 class="fancy">Who am I?</h4>
                         <p>Get to know your interests, skills and strengths. This stage includes:</p>
                         <ul>
                             <li>Periodic self-assessment of interests and strengths</li>
@@ -69,7 +68,7 @@
                     </div><!-- /.textKnow -->
                     <div id="textExplore" class="textHidden">
                         <h3>EXPLORE</h3>
-                        <p class="subheader">Where do I want to go?</p>
+                        <h4 class="fancy">Where do I want to go?</h4>
                         <p>Explore career pathways and education opportunities. This stage includes:</p>
                         <ul>
                             <li>Middle School career exploration activities and opportunities</li>
@@ -85,7 +84,7 @@
                     </div><!-- /.textExplore -->
                     <div id="textPlan" class="textHidden">
                         <h3>PLAN</h3>
-                        <p class="subheader">How do I get there?</p>
+                        <h4 class="fancy">How do I get there?</h4>
                         <p>Set your route! Set goals, choose courses, join clubs and activities, obtain financing, fill out applications and write resumes. This stage includes:</p>
                         <ul>
                             <li>Planning skills</li>
@@ -99,7 +98,7 @@
                     </div><!-- /.textPlan -->
                     <div id="textGo" class="textHidden">
                         <h3>GO</h3>
-                        <p class="subheader">Do it!</p>
+                        <h4 class="fancy">Do it!</h4>
                         <p>Carry out your plan, and recalculate as needed. This stage includes:</p>
                         <ul>
                             <li>Executing your plan</li>

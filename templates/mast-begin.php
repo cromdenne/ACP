@@ -1,8 +1,8 @@
     <div id="header" class="row text-center">
-                    <p class="serif">LUXEMBURG-CASCO SCHOOL DISTRICT</p>
+                    <h5>LUXEMBURG-CASCO SCHOOL DISTRICT</h5>
                     <h1 class="site-title golden">Academic &amp; Career Planning</h1>
-                    <h2 class="golden">Arm Yourself for Success</h2>
-                    <h4>To be College &amp; Career Ready</h4>
+                    <h2 class="fancy">Arm Yourself for Success</h2>
+                    <h4 class="fancy">To be College &amp; Career Ready</h4>
                 </div><!-- /#header -->
 
                 <div id="navigation" class="row">

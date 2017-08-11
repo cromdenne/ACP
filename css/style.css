@@ -8,16 +8,15 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Yellowtail', cursive;
+  font-family: 'Cinzel', serif;
 }
 
 .site-title {
-  font-size: 64px;
+  font-size: 48px;
 }
 
-.subheader {
-  font-style: italic;
-  font-size: 1.25em;
+.fancy {
+  font-family: 'Yellowtail', cursive;
 }
 
 .golden {
@@ -36,6 +35,10 @@ h1, h2, h3, h4, h5, h6 {
   padding-left: 5px;
   list-style: none;
   line-height: 2em;
+}
+
+.list-graph {
+  line-height: 1.15em;
 }
 
 .no-space {

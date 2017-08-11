@@ -5,7 +5,7 @@
 		<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 
 		<!-- Google Fonts -->
-		<link href="https://fonts.googleapis.com/css?family=Yellowtail|Quattrocento+Sans" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Cinzel:900|Yellowtail|Quattrocento+Sans" rel="stylesheet">
 
 		<!-- custom styles -->
 		<link href="css/style.css" rel="stylesheet">

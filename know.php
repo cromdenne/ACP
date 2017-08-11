@@ -33,30 +33,46 @@
                     <h1>Know</h1>
                     <img src="images/spear.png" width="100%" alt="spear header underline">
                     <br><br>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.</p>
+                    <p>In “Know,” L-C students will discover their strengths, abilities and goals in relation to academic and career preparation.</p>
                     <hr class="rule-light">
+                    <h3 class="fancy">Who am I?</h3>
                     <p>
-                        <a class="hvr" href="https://sso.careercruising.com/page/openidconnect" target="_blank">Career Cruising</a><br>
-                        <a class="hvr" href="https://www.bls.gov/k12/" target="_blank">Bureau of Labor Statistics</a><br>
-                        <a class="hvr" href="http://www.humanmetrics.com/cgi-win/jtypes2.asp" target="_blank">Personality Test</a><br>
-                        <a class="hvr" href="http://www.myplan.com/timeline/high_school.php" target="_blank">MyPlan.com</a><br>
-                        <a class="hvr" href="https://bigfuture.collegeboard.org/get-started" target="_blank">Big Future College Board</a><br>
-                        <a class="hvr" href="http://lookforwardwi.gov/" target="_blank">Look Forward to Your Future</a><br>
-                        <a class="hvr" href="https://www.16personalities.com/" target="_blank">16 Personalities</a><br>
-                        <a class="hvr" href="http://skillexplorer.wisconsin.gov/Search.aspx" target="_blank">Skill Explorer</a><br>
-                        <a class="hvr" href="https://www.wicareerpathways.org/Students" target="_blank">What are career pathways?</a><br>
-                        <a class="hvr" href="http://www.nextvista.org/collection/light-bulbs/careers/" target="_blank">Career Videos</a><br>
-                        <a class="hvr" href="http://dwd.wi.gov/skillexplorer/brochure.pdf" target="_blank">Department of Workforce Development Brochure</a>
+                        Get to know your interests, skills and strengths. This stage includes:
+                        <ul>
+                            <li>
+                                Self-Awareness
+                                <ul>
+                                    <li>Students will take and review inventories and assessments to learn about personal strengths, work values, learning styles, beliefs and interests.</li>
+                                    <li>Students are engaged in extracurricular and co-curricular activities that provide experiences from which they learn about their skills, abilities, and interests.</li>
+                                    <li>Students will set short and long-term goals based on their developing self awareness.</li>
+                                </ul>
+                            </li>
+                            <li>
+                                Financial Knowledge
+                                <ul>
+                                    <li>Students will be provided instruction, experiences and guidance for developing an understanding of relevant financial concepts.</li>
+                                </ul>
+                            </li>
+                            <li>
+                                Academic and Career Preparation
+                                <ul>
+                                    <li>Students have opportunities to learn study skills such as outlining, note-taking, using academic planners, memorization and test-taking skills.</li>
+                                    <li>Students have opportunities to engage in self-directed and group inquiry-based and problem-solving activities.
+                                    <li>Students have opportunities to practice appropriate communication with different purposes or audiences.</li>
+                                </ul>
+                            </li>
+                        </ul>
                     </p>
-                    <br>
                 </div><!-- /#main -->
                 <div id="pane-right" class="col-md-3 sidebar">
                     <h3>Resources</h3>
                     <ul class="unstyled">
-                        <li><a class="hvr" href="#">Example resource</a></li>
-                        <li><a class="hvr" href="#">Example resource</a></li>
-                        <li><a class="hvr" href="#">Example resource</a></li>
-                        <li><a class="hvr" href="#">Example resource</a></li>
+                        <li>
+                            <a class="hvr" href="https://sso.careercruising.com/page/openidconnect" target="_blank">Career Cruising</a>
+                            <p class="list-graph">Career Cruising is an Internet-based career exploration and planning tool used by students in grades 6-12 to explore career and college options and develop a career plan. Through Career Cruising students will build self-awareness, learn about career possibilities and educational pathways, and create an actionable plan to achieve career, school and life goals.</p>
+                        </li>
+                        <li><a class="hvr" href="https://www.16personalities.com/" target="_blank">16 Personalities</a></li>
+                        <li><a class="hvr" href="http://skillexplorer.wisconsin.gov/Search.aspx" target="_blank">Skill Explorer</a></li>
                     </ul>
                 </div><!-- /#sidebar -->
 
