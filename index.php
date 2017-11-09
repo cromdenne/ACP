@@ -40,6 +40,11 @@
                         <p>Do you know someone who said “I want to be a doctor!” and started out as a pre-med major, only to realize they really weren’t good at math? Do you know someone who was great at working on cars, but realized they hated being a mechanic? Many people go into college majoring in something they think they like, but aren’t necessarily good at; many people enter the workforce doing a job they’re good at, but don’t really like. ACP aims to change this and find the perfect fit where students are both good at and enjoy their work.</p>
                         <h3>WHAT IS ACP?</h3>
                         <p>When students leverage their own interests and abilities, they can enhance their success after high school. Going through the ACP process will allow students to be college and career ready with an arsenal of skills critical to success in post-secondary endeavors, while helping them find post-secondary options that take into account those very interests and abilities.</p>
+                        <p>
+                            <a class="hvr" href="https://dpi.wi.gov/sites/default/files/imce/dpi-connected/jpg/161114-acp-puzzle-2.jpg" target="_blank">The ACP Puzzle</a><br>
+                            <a class="hvr" href="https://drive.google.com/file/d/0B_WzlktaiXg1YVNKaENuX3RpeDl6aG9GUkJXUlNZTVUydE1r/view?usp=sharing" target="_blank">Table of ACP Components</a><br>
+                            <a class="hvr" href="https://www.youtube.com/watch?v=xFs8P_TrAVQ&feature=youtu.be" target="_blank">Inspirational ACP Outcomes</a><br>
+                        </p>
                     </div><!-- /#textDefault -->
                     <div id="textSpartan" class="textHidden">
                         <h3>WHAT IS PI 26?</h3>

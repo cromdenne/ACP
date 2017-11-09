@@ -71,8 +71,18 @@
                             <a class="hvr" href="https://sso.careercruising.com/page/openidconnect" target="_blank">Career Cruising</a>
                             <p class="list-graph">Career Cruising is an Internet-based career exploration and planning tool used by students in grades 6-12 to explore career and college options and develop a career plan. Through Career Cruising students will build self-awareness, learn about career possibilities and educational pathways, and create an actionable plan to achieve career, school and life goals.</p>
                         </li>
-                        <li><a class="hvr" href="https://www.16personalities.com/" target="_blank">16 Personalities</a></li>
-                        <li><a class="hvr" href="http://skillexplorer.wisconsin.gov/Search.aspx" target="_blank">Skill Explorer</a></li>
+                        <li>
+                            <a class="hvr" href="http://skillexplorer.wisconsin.gov/Search.aspx" target="_blank">Skill Explorer</a>
+                            <p class="list-graph">Skill Explorer helps students identify transferable skills, career pathway opportunities, and training needs for occupations they are interested in pursuing.</p>
+                        </li>
+                        <li>
+                            <a class="hvr" href="https://www.16personalities.com/" target="_blank">16 Personalities</a>
+                            <p class="list-graph">16 Personalities profiling helps students gain a concrete, accurate description of who they are and why they do things the way they do.</p>
+                        </li>
+                        <li>
+                            <a class="hvr" href="https://www.mynextmove.org/explore/ip" target="_blank">O*NET Interest Profiler</a>
+                            <p class="list-graph">The O*NET Interest Profiler can help students find out what their interests are and how they relate to their education and the world of work.</p>
+                        </li>
                     </ul>
                 </div><!-- /#sidebar -->
 

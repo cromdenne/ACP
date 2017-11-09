@@ -72,11 +72,13 @@
                 <div id="pane-right" class="col-md-3 sidebar">
                     <h3>Resources</h3>
                     <ul class="unstyled">
-                        <li><a class="hvr" href="https://bigfuture.collegeboard.org/get-started" target="_blank">Big Future College Board</a></li>
-                        <li><a class="hvr" href="https://www.wicareerpathways.org/Students" target="_blank">What are career pathways?</a></li>
+                        <li>
+                            <a class="hvr" href="https://bigfuture.collegeboard.org/get-started" target="_blank">Big Future College Board</a>
+                            <p class="list-graph">College Board website for exploring colleges.</p>
+                        </li>
                         <li><a class="hvr" href="http://www.nextvista.org/collection/light-bulbs/careers/" target="_blank">Career Videos</a></li>
                         <li>
-                            <a class="hvr" href="https://www.wicareerpathways.org/Students" target="_blank">Wisconsin Career Pathways</a>
+                            <a class="hvr" href="http://adults.wicareerpathways.org/" target="_blank">Wisconsin Career Pathways</a>
                             <p class="list-graph">By setting up an account, students are driven to the Student Interest Survey for CareerClusters®. After completing the survey, students land in a secure portal called MiLocker. Here, a customized summary, named MiClusters, lists the 16 Career Clusters® in rank order based on survey results. From the MiClusters listing, students can explore the 16 Career Clusters® and drill down into career pathways. From the career pathways webpages,students can explore: majors/programs of Wisconsin's higher education sectors; an ample amount of specific career information; programs of study from their high schools.</p>
                         </li>
                         <li>
@@ -91,8 +93,18 @@
                             <a class="hvr" href="https://www.bls.gov/home.htm" target="_blank">Bureau of Labor Statistics</a>
                             <p class="list-graph">Find careers that relate to your interests and learn fun facts about the economy and jobs.</p>
                         </li>
-                        <li><a class="hvr" href="http://central.wawm.k12.wi.us/UserFiles/Servers/Server_1213077/File/Students/NACESurveyWhatEmployersWanttoSeeonNewCollegeGradResumes.pdf" target="_blank">National Association of Colleges &amp; Employers</a></li>
-                        <li><a class="hvr" href="http://worknet.wisconsin.gov/worknet/jsprofile_results.aspx?menuselection=gp&area=061" target="_blank">Kewaunee County Labor Market Information</a></li>
+                        <li>
+                            <a class="hvr" href="http://central.wawm.k12.wi.us/UserFiles/Servers/Server_1213077/File/Students/NACESurveyWhatEmployersWanttoSeeonNewCollegeGradResumes.pdf" target="_blank">NACE Attributes</a>
+                            <p class="list-graph">This link provides a survey outlining the attributes employers and colleges seek in candidates.</p>
+                        </li>
+                        <li>
+                            <a class="hvr" href="http://worknet.wisconsin.gov/worknet/jsprofile_results.aspx?menuselection=gp&area=061" target="_blank">Kewaunee County Labor Market</a><br>
+                            <p class="list-graph">Throughout the process of identifying a career and building an academic plan it is important to understand the local labor market. This link will help identify high-demand careers in the Kewaunee County area.</p>
+                        </li>
+                        <li>
+                            <a class="hvr" href="https://www.agexplorer.com/" target="_blank">Ag Explorer</a>
+                            <p class="list-graph">National FFA and Discovery Education have joined forces to create a robust, comprehensive career resource to help you explore the broad range of careers within the industry of agriculture.</p>
+                        </li>
                     </ul>
                 </div><!-- /#sidebar -->
 

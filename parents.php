@@ -29,7 +29,7 @@
                 <?php include 'templates/mast-end.php'; ?>
 
             <div id="content" class="row row-eq-height">
-                <div id="pane-left" class="col-md-9">
+                <div id="pane-left" class="col-md-12">
                     <h1>Parents</h1>
                     <img src="images/spear.png" width="100%" alt="spear header underline">
                     <br><br>
@@ -63,16 +63,6 @@
                     </p>
                     <br>
                 </div><!-- /#main -->
-                <div id="pane-right" class="col-md-3 sidebar">
-                    <h3>Resources</h3>
-                    <ul class="unstyled">
-                        <li><a class="hvr" href="#">Example resource</a></li>
-                        <li><a class="hvr" href="#">Example resource</a></li>
-                        <li><a class="hvr" href="#">Example resource</a></li>
-                        <li><a class="hvr" href="#">Example resource</a></li>
-                    </ul>
-                </div><!-- /#sidebar -->
-
             </div><!-- /#content -->
 
             <?php include 'templates/footer.php'; ?>

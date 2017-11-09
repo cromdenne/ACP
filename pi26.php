@@ -56,8 +56,16 @@
                 <div id="pane-right" class="col-md-3 sidebar">
                     <h3>Resources</h3>
                     <ul class="unstyled">
-                        <li><a class="hvr" href="https://dpi.wi.gov/sites/default/files/imce/acp/pdf/pi26memo0108.pdf" target="_blank">PI 26</a></li>
-                        <li><a class="hvr" href="https://dpi.wi.gov/acp" target="_blank">DPI ACP Resources</a></li>
+                        <li>
+                            <a class="hvr" href="https://dpi.wi.gov/sites/default/files/imce/acp/pdf/pi26memo0108.pdf" target="_blank">PI 26</a>
+                            <p class="list-graph">PI 26 is a state administrative rule and the intent of the rule is outlined in this memorandum.</p>
+                        </li>
+                        <li>
+                            <a class="hvr" href="https://dpi.wi.gov/acp" target="_blank">DPI ACP Resources</a>
+                            <p class="list-graph">The Wisconsin Department of Public Instruction has a variety of resources and guidelines for the ACP process.</p>
+                        </li>
+                        <li><a class="hvr" href="https://docs.google.com/document/d/1upWDLHiFpYpqKbmtql42pmxRJ7sljT1xfszCL5ii0d4/edit?usp=sharing" target="_blank">L-C Strategic Plan (Spring '17)</a></li>
+                        <li><a class="hvr" href="https://docs.google.com/document/d/1ep2uxeeDnSMFZpjErTbtSGGBhU5YPLxUNiQrhM8JvRY/edit?usp=sharing" target="_blank">L-C ACP Multi-Year Plan</a></li>
                     </ul>
                 </div><!-- /#sidebar -->
 
