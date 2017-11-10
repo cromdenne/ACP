@@ -36,72 +36,64 @@
                     <p>In “Plan,” L-C students begin to develop and solidify plans for career or post-secondary opportunities through individual conferences, cover letter and resume building, financial planning, and various other activities. "Arm yourself for success!"</p>
                     <hr class="rule-light">
                     <h3 class="fancy">How do I get there?</h3>
-                    <p>
-                        Set your route! Set goals, choose courses, join clubs and activities, obtain financing, fill out applications and write resumes. This stage includes:
+                    <p>Set your route! Set goals, choose courses, join clubs and activities, obtain financing, fill out applications and write resumes. This stage includes the following topics.</p>
+
+                    <p class="graph-space">
+                        <h5>Planning Skills</h5>
+
+                        Academic Planning — Plan your career at L-C High School! Take classes that will spark your interest and keep you on track for graduation and your post secondary plans.
                         <ul>
+                            <li><a class="hvr" href="https://docs.google.com/document/d/1OQSgKmQZ3_iYIfubew5BFNFmNrTxRFqO5bJ01QPk56k/edit?ts=58877b35" target="_blank">Course Catalog</a></li>
+                            <li><a class="hvr" href="https://docs.google.com/document/d/10-oP323BXpg0kR8RVaOMSCTPpskoaygjCeyVHty2Bsk/edit" target="_blank">Graduation Requirement checklist</a></li>
+                            <li><a class="hvr" href="http://www.luxcasco.k12.wi.us/students/community-service" target="_blank">L-C Community Service opportunities</a></li>
+                        </ul>
+
+                        Career/College Planning — College-bound? Explore your options and choose a technical college, private college, or public university that fits you best. Ready to start your career? Start crafting your cover letters and resume so you stand out from the crowd when you apply for jobs. Considering the military? Check out the different branches and find the one that fits your interests.
+                        <ul>
+                            <li><a class="hvr" href="https://resumegenius.com/" target="_blank">Resume Builder</a></li>
                             <li>
-                                Planning Skills
+                                Post Secondary Options
                                 <ul>
-                                    <li>
-                                        Academic Planning — Plan your career at L-C High School! Take classes that will spark your interest and keep you on track for graduation and your post secondary plans.
-                                        <ul>
-                                            <li><a class="hvr" href="https://docs.google.com/document/d/1OQSgKmQZ3_iYIfubew5BFNFmNrTxRFqO5bJ01QPk56k/edit?ts=58877b35" target="_blank">Course Catalog</a></li>
-                                            <li><a class="hvr" href="https://docs.google.com/document/d/10-oP323BXpg0kR8RVaOMSCTPpskoaygjCeyVHty2Bsk/edit" target="_blank">Graduation Requirement checklist</a></li>
-                                            <li><a class="hvr" href="http://www.luxcasco.k12.wi.us/students/community-service" target="_blank">L-C Community Service opportunities</a></li>
-                                        </ul>
-                                    </li>
-                                    <li>
-                                        Career/College Planning — College-bound? Explore your options and choose a technical college, private college, or public university that fits you best. Ready to start your career? Start crafting your cover letters and resume so you stand out from the crowd when you apply for jobs. Considering the military? Check out the different branches and find the one that fits your interests.
-                                        <ul>
-                                            <li><a class="hvr" href="https://resumegenius.com/" target="_blank">Resume Builder</a></li>
-                                            <li>
-                                                Post Secondary Options
-                                                <ul>
-                                                    <li><a class="hvr" href="https://www.mynextmove.org/" target="_blank">My Next Move</a></li>
-                                                    <li><a class="hvr" href="https://www.wisconsin.edu/" target="_blank">UW College System</a></li>
-                                                    <li><a class="hvr" href="http://www.wisconsinsprivatecolleges.org/colleges" target="_blank">Wisconsin's Private Colleges</a></li>
-                                                    <li><a class="hvr" href="http://www.wtcsystem.edu/colleges" target="_blank">Wisconsin's Technical Colleges</a></li>
-                                                    <li><a class="hvr" href="https://www.usa.gov/join-military" target="_blank">United States Military</a></li>
-                                                </ul>
-                                            </li>
-                                            <li>
-                                                Campus Visits — So you know where you want to go. Now it's time to see it for yourself!
-                                                <ul>
-                                                    <li><a class="hvr" href="https://bigfuture.collegeboard.org/find-colleges/campus-visit-guide/campus-visits-before-you-go-college-visit" target="_blank">How to set up a campus visit</a></li>
-                                                    <li><a class="hvr" href="https://bigfuture.collegeboard.org/find-colleges/campus-visit-guide/campus-visit-checklist" target="_blank">Campus visit checklist</a></li>
-                                                </ul>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    <li>
-                                        Financial Planning — “How do I pay for all of this?” Paying for college can seem scary, but these resources make it easy. Check out FAFSA, L-C scholarships, and general scholarships.
-                                        <ul>
-                                            <li><a class="hvr" href="https://bigfuture.collegeboard.org/pay-for-college/financial-aid/3-steps-to-getting-financial-aid" target="_blank">Paying for college</a></li>
-                                            <li><a class="hvr" href="https://fafsa.ed.gov/" target="_blank">FAFSA</a></li>
-                                            <li><a class="hvr" href="http://www.luxcasco.k12.wi.us/schools/high-school/counseling-department/scholarships" target="_blank">L-C Scholarships</a></li>
-                                            <li><a class="hvr" href="https://www.fastweb.com/college-scholarships" target="_blank">General Scholarships</a></li>
-                                        </ul>
-                                    </li>
+                                    <li><a class="hvr" href="https://www.mynextmove.org/" target="_blank">My Next Move</a></li>
+                                    <li><a class="hvr" href="https://www.wisconsin.edu/" target="_blank">UW College System</a></li>
+                                    <li><a class="hvr" href="http://www.wisconsinsprivatecolleges.org/colleges" target="_blank">Wisconsin's Private Colleges</a></li>
+                                    <li><a class="hvr" href="http://www.wtcsystem.edu/colleges" target="_blank">Wisconsin's Technical Colleges</a></li>
+                                    <li><a class="hvr" href="https://www.usa.gov/join-military" target="_blank">United States Military</a></li>
                                 </ul>
                             </li>
                             <li>
-                                The Middle School Plan
+                                Campus Visits — So you know where you want to go. Now it's time to see it for yourself!
                                 <ul>
-                                    <li>Students, teachers, counselors and families have access to ACP information.</li>
-                                    <li>Use this plan as a tool to consider choices, plan high school course selection and transition to high school.</li>
-                                </ul>
-                            </li>
-                            <li>
-                                The High School Plan
-                                <ul>
-                                    <li>Students, teachers, counselors and families have access to ACP information.</li>
-                                    <li>Develop a financial and educational plan to align with postsecondary education or training costs that connects to personal career and postsecondary ACP goals.</li>
-                                    <li>Use this plan for your transition to postsecondary education correlated to academic goals, including planning sequence of courses required during high school, tracking post secondary application requirements, timelines for applications and financial aid submission, and requirements for entrance into careers of interest.
-                                    </li>
+                                    <li><a class="hvr" href="https://bigfuture.collegeboard.org/find-colleges/campus-visit-guide/campus-visits-before-you-go-college-visit" target="_blank">How to set up a campus visit</a></li>
+                                    <li><a class="hvr" href="https://bigfuture.collegeboard.org/find-colleges/campus-visit-guide/campus-visit-checklist" target="_blank">Campus visit checklist</a></li>
                                 </ul>
                             </li>
                         </ul>
+
+                        Financial Planning — “How do I pay for all of this?” Paying for college can seem scary, but these resources make it easy. Check out FAFSA, L-C scholarships, and general scholarships.
+                        <ul>
+                            <li><a class="hvr" href="https://bigfuture.collegeboard.org/pay-for-college/financial-aid/3-steps-to-getting-financial-aid" target="_blank">Paying for college</a></li>
+                            <li><a class="hvr" href="https://fafsa.ed.gov/" target="_blank">FAFSA</a></li>
+                            <li><a class="hvr" href="http://www.luxcasco.k12.wi.us/schools/high-school/counseling-department/scholarships" target="_blank">L-C Scholarships</a></li>
+                            <li><a class="hvr" href="https://www.fastweb.com/college-scholarships" target="_blank">General Scholarships</a></li>
+                        </ul>
                     </p>
+
+                    <p class="graph-space">
+                        <h5>The Middle School Plan</h5>
+                        Students, teachers, counselors and families have access to ACP information. Use this plan as a tool to consider choices, plan high school course selection and transition to high school.
+                    </p>
+
+                    <p class="graph-space">
+                        <h5>The High School Plan</h5>
+                        <ul>
+                            <li>Students, teachers, counselors and families have access to ACP information.</li>
+                            <li>Develop a financial and educational plan to align with postsecondary education or training costs that connects to personal career and postsecondary ACP goals.</li>
+                            <li>Use this plan for your transition to postsecondary education correlated to academic goals, including planning sequence of courses required during high school, tracking post secondary application requirements, timelines for applications and financial aid submission, and requirements for entrance into careers of interest.
+                            </li>
+                        </ul>
+                    </p>
+
                 </div><!-- /#main -->
                 <div id="pane-right" class="col-md-3 sidebar">
                     <h3>Resources</h3>

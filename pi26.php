@@ -41,8 +41,8 @@
                             <li>Review the plan yearly.</li>
                         </ul>
                     </p>
-                    <br>
-                    <p>
+                    
+                    <p class="graph-space">
                         This plan must address:
                         <ul>
                             <li>Local, regional, and state market needs.</li>

@@ -36,31 +36,28 @@
                     <p>In “Know,” L-C students will discover their strengths, abilities and goals in relation to academic and career preparation.</p>
                     <hr class="rule-light">
                     <h3 class="fancy">Who am I?</h3>
-                    <p>
-                        Get to know your interests, skills and strengths. This stage includes:
+                    <p>Get to know your interests, skills and strengths. This stage includes the following topics.</p>
+                    
+                    <p class="graph-space">
+                        <h5>Self-Awareness</h5>
                         <ul>
-                            <li>
-                                Self-Awareness
-                                <ul>
-                                    <li>Students will take and review inventories and assessments to learn about personal strengths, work values, learning styles, beliefs and interests.</li>
-                                    <li>Students are engaged in extracurricular and co-curricular activities that provide experiences from which they learn about their skills, abilities, and interests.</li>
-                                    <li>Students will set short and long-term goals based on their developing self awareness.</li>
-                                </ul>
-                            </li>
-                            <li>
-                                Financial Knowledge
-                                <ul>
-                                    <li>Students will be provided instruction, experiences and guidance for developing an understanding of relevant financial concepts.</li>
-                                </ul>
-                            </li>
-                            <li>
-                                Academic and Career Preparation
-                                <ul>
-                                    <li>Students have opportunities to learn study skills such as outlining, note-taking, using academic planners, memorization and test-taking skills.</li>
-                                    <li>Students have opportunities to engage in self-directed and group inquiry-based and problem-solving activities.
-                                    <li>Students have opportunities to practice appropriate communication with different purposes or audiences.</li>
-                                </ul>
-                            </li>
+                            <li>Students will take and review inventories and assessments to learn about personal strengths, work values, learning styles, beliefs and interests.</li>
+                            <li>Students are engaged in extracurricular and co-curricular activities that provide experiences from which they learn about their skills, abilities, and interests.</li>
+                            <li>Students will set short and long-term goals based on their developing self awareness.</li>
+                        </ul>
+                    </p>
+                    
+                    <p class="graph-space">
+                        <h5>Financial Knowledge</h5>
+                        Students will be provided instruction, experiences and guidance for developing an understanding of relevant financial concepts.
+                    </p>
+
+                    <p class="graph-space">
+                        <h5>Academic and Career Preparation</h5>
+                        <ul>
+                            <li>Students have opportunities to learn study skills such as outlining, note-taking, using academic planners, memorization and test-taking skills.</li>
+                            <li>Students have opportunities to engage in self-directed and group inquiry-based and problem-solving activities.</li>
+                            <li>Students have opportunities to practice appropriate communication with different purposes or audiences.</li>
                         </ul>
                     </p>
                 </div><!-- /#main -->

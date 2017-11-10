@@ -36,42 +36,43 @@
                     <p>In "Go", L-C students take time to reflect on and update their personal, academic, and career goals. Students are encouraged to make modifications to their course outline as necessary to ensure their plan allows for a clear transition after high school into the following focuses: Armed Forces, Workforce, or Postsecondary Education.</p>
                     <hr class="rule-light">
                     <h3 class="fancy">Do it!</h3>
-                    <p>
-                        Carry out your plan and recalculate as needed. This stage includes:
+                    <p>Carry out your plan and recalculate as needed. This stage includes the following topics.</p>
+
+                    <p class="graph-space">
+                        <h5>Execution of Plan</h5>
                         <ul>
-                            <li>
-                                Execution of Plan
-                                <ul>
-                                    <li>Students will participate in multiple career related activities.</li>
-                                    <li>Lead a student-parent-teacher conference.</li>
-                                    <li>Seek out opportunities to better define their own career or postsecondary options.</li>
-                                </ul>
-                            </li>
-                            <li>
-                                Updating the Plan
-                                <ul>
-                                    <li>Explore different career options within students areas of interests.</li>
-                                    <li>Update plan regularly with academic and career related activities.</li>
-                                    <li>Seek out and document activities completed in pursuit of goals.</li>
-                                </ul>
-                            </li>
-                            <li>
-                                ACP Conferencing and Mentoring
-                                <ul>
-                                    <li>Students will participate in regularly scheduled conferences to explore options and plan for opportunities to meet goals.</li>
-                                    <li>Identify, document and seek out activities as desired to complete their plan.</li>
-                                </ul>
-                            </li>
-                            <li>
-                                Transitioning
-                                <ul>
-                                    <li>Attend post-secondary and high school information events.</li>
-                                    <li>Understand the value of persistence, practicality, and patience in gaining admission/employment.</li>
-                                    <li>Use personal or school networks to gather leads, connections, and letters of recommendations.</li>
-                                </ul>
-                            </li>
+                            <li>Students will participate in multiple career related-activities.</li>
+                            <li>Lead a student-parent-teacher conference.</li>
+                            <li>Seek out opportunities to better define their own career or postsecondary options.</li>
                         </ul>
                     </p>
+
+                    <p class="graph-space">
+                        <h5>Updating the Plan</h5>
+                        <ul>
+                            <li>Explore different career options within students areas of interests.</li>
+                            <li>Update plan regularly with academic and career related activities.</li>
+                            <li>Seek out and document activities completed in pursuit of goals.</li>
+                        </ul>
+                    </p>
+
+                    <p class="graph-space">
+                        <h5>ACP Conferencing and Mentoring</h5>
+                        <ul>
+                            <li>Students will participate in regularly scheduled conferences to explore options and plan for opportunities to meet goals.</li>
+                            <li>Identify, document and seek out activities as desired to complete their plan.</li>
+                        </ul>
+                    </p>
+
+                    <p class="graph-space">
+                        <h5>Transitioning</h5>
+                        <ul>
+                            <li>Attend post-secondary and high school information events.</li>
+                            <li>Understand the value of persistence, practicality, and patience in gaining admission/employment.</li>
+                            <li>Use personal or school networks to gather leads, connections, and letters of recommendations.</li>
+                        </ul>
+                    </p>
+
                 </div><!-- /#main -->
                 <div id="pane-right" class="col-md-3 sidebar">
                     <h3>Resources</h3>

@@ -51,7 +51,6 @@
                             <li><a class="hvr" href="http://www.luxcasco.k12.wi.us/schools/high-school/counseling-department/scholarships" target="_blank">L-C Scholarships</a></li>
                             <li><a class="hvr" href="http://www.luxcasco.k12.wi.us/schools/high-school/counseling-department/financial-aid">L-C Financial Aid</a></li>
                             <li><a class="hvr" href="http://www.luxcasco.k12.wi.us/schools/high-school/counseling-department/frequently-asked-questions">L-C Counseling FAQ</a></li>
-                            <li><a class="hvr" href="http://www.luxcasco.k12.wi.us/schools/high-school/counseling-department/frequently-asked-questions">L-C Counseling FAQ</a></li>
                         </ul>
                     </p>
                     <p>                        
