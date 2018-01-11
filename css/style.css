@@ -198,6 +198,10 @@ h1, h2, h3, h4, h5, h6 {
 /*===========================================================================*/
 /*  FOOTER                                                                   */
 /*===========================================================================*/
+#footer-center > img {
+  padding-top: 50px;
+}
+
 #footer {
   padding: 50px;
   background-color: #434343;
@@ -206,7 +210,8 @@ h1, h2, h3, h4, h5, h6 {
     #footer {
       text-align: center;
     }
-    #footer-right {
-      display: none;
+    #footer-center > img {
+      margin-bottom: 50px;
+      padding-top: 0px;
     }
 }
