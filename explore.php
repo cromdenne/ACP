@@ -47,7 +47,7 @@
 
                     <p class="graph-space">
                         <h5>World of Work and Labor Market</h5>
-                        It is important for our students to have an understanding of the jobs available within our community and state to develop a realistic plan for their future. As of 2016, according to the <a class="hvr" href="http://www.wisconsin.gov" target="_blank">wisconsin.gov</a> website, the top industries for employment in Kewaunee County are:
+                        It is important for our students to have an understanding of the jobs available within our community and state to develop a realistic plan for their future. As of 2016, according to the <a class="hvr" href="http://www.jobcenterofwisconsin.com" target="_blank">jobcenterofwisconsin.com</a> website, the top industries for employment in Kewaunee County are:
                         <ul>
                             <li>Animal Production and Aquaculture</li>
                             <li>Education Services</li>
