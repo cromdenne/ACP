@@ -43,7 +43,7 @@
 
                         Academic Planning — Plan your career at L-C High School! Take classes that will spark your interest and keep you on track for graduation and your post secondary plans.
                         <ul>
-                            <li><a class="hvr" href="https://docs.google.com/document/d/1OQSgKmQZ3_iYIfubew5BFNFmNrTxRFqO5bJ01QPk56k/edit?ts=58877b35" target="_blank">Course Catalog</a></li>
+                            <li><a class="hvr" href="https://docs.google.com/document/d/1GvQMkOJwIfaXk096XMELRoGR8X80PcOSMpk-GMVyv4k/edit?usp=sharing" target="_blank">Course Catalog</a></li>
                             <li><a class="hvr" href="https://docs.google.com/document/d/10-oP323BXpg0kR8RVaOMSCTPpskoaygjCeyVHty2Bsk/edit" target="_blank">Graduation Requirement checklist</a></li>
                             <li><a class="hvr" href="http://www.luxcasco.k12.wi.us/students/community-service" target="_blank">L-C Community Service opportunities</a></li>
                         </ul>

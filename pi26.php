@@ -66,7 +66,7 @@
                         </li>
                         <li><a class="hvr" href="https://docs.google.com/document/d/1upWDLHiFpYpqKbmtql42pmxRJ7sljT1xfszCL5ii0d4/edit?usp=sharing" target="_blank">L-C Strategic Plan (Spring '17)</a></li>
                         <li><a class="hvr" href="https://docs.google.com/document/d/1ep2uxeeDnSMFZpjErTbtSGGBhU5YPLxUNiQrhM8JvRY/edit?usp=sharing" target="_blank">L-C ACP Multi-Year Plan</a></li>
-                        <li><a class="hvr" href="https://docs.google.com/a/luxcasco.k12.wi.us/document/d/1FwIsir5t5PU_XATaCuItwwDImT7T7RdwbgyQ5igZO3k/edit?usp=sharing" target="_blank">Scope and Sequence</a></li>
+                        <li><a class="hvr" href="https://docs.google.com/document/d/1_ujnYEKWyk3304RSOd3tybBftJF7z1rMQz1XkHtMric" target="_blank">Scope and Sequence</a></li>
                     </ul>
                 </div><!-- /#sidebar -->
 

@@ -60,6 +60,12 @@
                             <li><a class="hvr" href="https://careercruising.com/parent/" target="_blank">Parent Portal</a></li>
                         </ul>
                     </p>
+                    <p>                        
+                        Counseling
+                        <ul class="no-space">
+                            <li><a class="hvr" href="https://drive.google.com/open?id=1YHkfZ_l8g0pZMQFKtJeFLPaHtnsWyCug" target="_blank">Middle School Spartan Summits 2018 (8th Grade)</a></li>
+                        </ul>
+                    </p>
                     <br>
                 </div><!-- /#main -->
             </div><!-- /#content -->
