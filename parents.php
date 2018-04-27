@@ -36,7 +36,7 @@
                     <p>Families are an integral part of the ACP process! Families are encouraged to review their child’s plan and discuss all of the component opportunities in order to help them make thoughtful decisions that align with their goals. DPI is developing resources that schools can use to collaborate with parents in these efforts.</p>
                     <hr class="rule-light">
                     <p>                        
-                        School Handbooks
+                        <strong>School Handbooks</strong>
                         <ul class="no-space">
                             <li><a class="hvr" href="https://drive.google.com/file/d/0B_WzlktaiXg1SWg5MFJfTENEQWc/view" target="_blank">High School</a></li>
                             <li>Middle School</li>
@@ -45,7 +45,7 @@
                         </ul>
                     </p>
                     <p>                        
-                        Financial Aid Information
+                        <strong>Financial Aid Information</strong>
                         <ul class="no-space">
                             <li><a class="hvr" href="https://studentaid.ed.gov/sa/" target="_blank">Federal Aid</a></li>
                             <li><a class="hvr" href="http://www.luxcasco.k12.wi.us/schools/high-school/counseling-department/scholarships" target="_blank">L-C Scholarships</a></li>
@@ -54,17 +54,22 @@
                         </ul>
                     </p>
                     <p>                        
-                        Career Cruising Parent Access
+                        <strong>Career Cruising Parent Access</strong>
                         <ul class="no-space">
                             <li><a class="hvr" href="documents/CareerCruisingParentPortalAccessInstructions.pdf" target="_blank">Instructions</a></li>
                             <li><a class="hvr" href="https://careercruising.com/parent/" target="_blank">Parent Portal</a></li>
                         </ul>
                     </p>
                     <p>                        
-                        Counseling
+                        <strong>Counseling</strong>
                         <ul class="no-space">
                             <li><a class="hvr" href="https://drive.google.com/open?id=1YHkfZ_l8g0pZMQFKtJeFLPaHtnsWyCug" target="_blank">Middle School Spartan Summits 2018 (8th Grade)</a></li>
                         </ul>
+                    </p>
+                    <p><strong>Scope &amp; Sequence</strong>
+                        <ul class="no-space">
+                          <li><a class="hvr" href="https://docs.google.com/document/d/1_ujnYEKWyk3304RSOd3tybBftJF7z1rMQz1XkHtMric" target="_blank">Luxemburg-Casco</a> — A map of the learning activities that are being implemented in specific grade level/content areas.</li>
+                          <li><a class="hvr" href="https://drive.google.com/file/d/1owZYj-tRmjF0wtHeui_zgAiZPOTRmuje/view?usp=sharing" target="_blank">Career Cruising</a></li>
                     </p>
                     <br>
                 </div><!-- /#main -->

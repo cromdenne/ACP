@@ -34,7 +34,7 @@
                     <img src="images/spear.png" width="100%" alt="spear header underline">
                     <br><br>
                     <p>
-                        Beginning with the 2017-2018 school year in the state of Wisconsin, every school board and district is required to provide academic and career planning services to students in grades 6-12 enrolled in the district. In addition under PI 26, school boards and districts must meet the following requirements:
+                        Beginning with the 2017-2018 school year in the state of Wisconsin, every school board and district is required to provide academic and career planning <a class="hvr" href="https://docs.google.com/document/d/1_ujnYEKWyk3304RSOd3tybBftJF7z1rMQz1XkHtMric/edit" target="_blank">services to students in grades 6-12</a> enrolled in the district. In addition under PI 26, school boards and districts must meet the following requirements:
                         <ul>
                             <li>Develop a long-range plan with school district staff and community stakeholders.</li>
                             <li>Publish the plan on the school district’s website.</li>
@@ -64,9 +64,13 @@
                             <a class="hvr" href="https://dpi.wi.gov/acp" target="_blank">DPI ACP Resources</a>
                             <p class="list-graph">The Wisconsin Department of Public Instruction has a variety of resources and guidelines for the ACP process.</p>
                         </li>
+                        <li>
+                            <a class="hvr" href="https://docs.google.com/document/d/1_ujnYEKWyk3304RSOd3tybBftJF7z1rMQz1XkHtMric" target="_blank">L-C Scope &amp; Sequence</a>
+                            <p class="list-graph">This document is a map of the learning activities that are being implemented in specific grade level/content areas.</p>
+                        </li>
+                          <li><a class="hvr" href="https://drive.google.com/file/d/1owZYj-tRmjF0wtHeui_zgAiZPOTRmuje/view?usp=sharing" target="_blank">Career Cruising Scope &amp; Sequence</a></li>
                         <li><a class="hvr" href="https://docs.google.com/document/d/1upWDLHiFpYpqKbmtql42pmxRJ7sljT1xfszCL5ii0d4/edit?usp=sharing" target="_blank">L-C Strategic Plan (Spring '17)</a></li>
                         <li><a class="hvr" href="https://docs.google.com/document/d/1ep2uxeeDnSMFZpjErTbtSGGBhU5YPLxUNiQrhM8JvRY/edit?usp=sharing" target="_blank">L-C ACP Multi-Year Plan</a></li>
-                        <li><a class="hvr" href="https://docs.google.com/document/d/1_ujnYEKWyk3304RSOd3tybBftJF7z1rMQz1XkHtMric" target="_blank">Scope and Sequence</a></li>
                     </ul>
                 </div><!-- /#sidebar -->
 
