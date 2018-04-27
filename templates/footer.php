@@ -16,6 +16,6 @@
                     <img src="images/LuxCascoSchoolLogo-RGB.png" alt="Luxemburg-Casco Schoool District logo" width="200px">
                 </div>
                 <div id="footer-right" class="col-md-4 text-right">
-                    <a class="twitter-timeline" data-theme="dark" href="https://twitter.com/LuxCascoACP?ref_src=twsrc%5Etfw">Tweets by LuxCascoACP</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                    <a class="twitter-timeline" data-theme="dark" data-height="225" href="https://twitter.com/LuxCascoACP?ref_src=twsrc%5Etfw">Tweets by LuxCascoACP</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
                 </div>
             </div><!-- /#footer -->
