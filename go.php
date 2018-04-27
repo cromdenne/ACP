@@ -26,6 +26,8 @@
                             <li class="active"><a href="go.php">Go <span class="sr-only">(current)</span></a></li>
                             <li><a href="pi26.php">PI 26 &amp; ACP</a></li>
                             <li><a href="parents.php">Parents</a></li>
+                            <li><a href="staff.php">Staff</a></li>
+                            <li><a href="partnerships.php">Partnerships</a></li>
                 <?php include 'templates/mast-end.php'; ?>
 
             <div id="content" class="row row-eq-height">

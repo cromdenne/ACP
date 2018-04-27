@@ -26,6 +26,8 @@
                             <li><a href="go.php">Go</a></li>
                             <li><a href="pi26.php">PI 26 &amp; ACP</a></li>
                             <li><a href="parents.php">Parents</a></li>
+                            <li><a href="staff.php">Staff</a></li>
+                            <li><a href="partnerships.php">Partnerships</a></li>
                 <?php include 'templates/mast-end.php'; ?>
 
             <div id="content" class="row row-eq-height">
@@ -94,10 +96,19 @@
                         </ul>
                     </p>
 
+                    <p class="graph-space">
+                        <h5>Career &amp; Technical Education</h5>
+                        The Luxemburg-Casco School District offers multiple Career and Technical Education (CTE) courses throughout the following departments: Family and Consumer Sciences, Technology Education, Agriculture Education, and Business Education. Each of these departments purposefully aligns coursework to high-skill, high-demand, high-wage career opportunities. In addition to traditional coursework each department seeks out real-world, project-based learning experiences that offer students an opportunity to get outside of the traditional classroom, work hands-on in a business model, and have a say in their own learning.
+                    </p>
+
                 </div><!-- /#main -->
                 <div id="pane-right" class="col-md-3 sidebar">
                     <h3>Resources</h3>
                     <ul class="unstyled">
+                        <li>
+                            <a class="hvr" href="https://drive.google.com/open?id=1oo56yREd9s_Zmw_sfa8bJ3xJs6jE-eb3" target="_blank">ACP Portfolio Requirements</a>
+                            <p class="list-graph">The ACP portfolio requirements allow students to reflect on their high school experiences through the lens of know, explore, plan, and go. This process helps students discover and develop a personalized plan for their life after high school.</p>
+                        </li>
                         <li>
                             <a class="hvr" href="http://majormania.uwex.edu/" target="_blank">Major Mania</a>
                             <p class="list-graph">A tool that links majors with colleges that offer them.</p>

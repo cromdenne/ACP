@@ -26,6 +26,8 @@
                             <li><a href="go.php">Go</a></li>
                             <li><a href="pi26.php">PI 26 &amp; ACP</a></li>
                             <li><a href="parents.php">Parents</a></li>
+                            <li><a href="staff.php">Staff</a></li>
+                            <li><a href="partnerships.php">Partnerships</a></li>
                 <?php include 'templates/mast-end.php'; ?>
 
             <div id="content" class="row row-eq-height">
@@ -47,6 +49,7 @@
                             <a class="hvr" href="https://dpi.wi.gov/sites/default/files/imce/dpi-connected/jpg/161114-acp-puzzle-2.jpg" target="_blank">The ACP Puzzle</a><br>
                             <a class="hvr" href="https://drive.google.com/file/d/0B_WzlktaiXg1YVNKaENuX3RpeDl6aG9GUkJXUlNZTVUydE1r/view?usp=sharing" target="_blank">Table of ACP Components</a><br>
                             <a class="hvr" href="https://www.youtube.com/watch?v=xFs8P_TrAVQ&feature=youtu.be" target="_blank">Inspirational ACP Outcomes</a><br>
+                            <a class="hvr" href="partnerships.php">Get Involved in ACP at Luxemburg-Casco</a><br>
                         </p>
                     </div><!-- /#textDefault -->
                     <div id="textSpartan" class="textHidden">

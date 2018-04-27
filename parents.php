@@ -26,6 +26,8 @@
                             <li><a href="go.php">Go</a></li>
                             <li><a href="pi26.php">PI 26 &amp; ACP</a></li>
                             <li class="active"><a href="parents.php">Parents<span class="sr-only">(current)</span></a></li>
+                            <li><a href="staff.php">Staff</a></li>
+                            <li><a href="partnerships.php">Partnerships</a></li>
                 <?php include 'templates/mast-end.php'; ?>
 
             <div id="content" class="row row-eq-height">
@@ -70,6 +72,14 @@
                         <ul class="no-space">
                           <li><a class="hvr" href="https://docs.google.com/document/d/1_ujnYEKWyk3304RSOd3tybBftJF7z1rMQz1XkHtMric" target="_blank">Luxemburg-Casco</a> — A map of the learning activities that are being implemented in specific grade level/content areas.</li>
                           <li><a class="hvr" href="https://drive.google.com/file/d/1owZYj-tRmjF0wtHeui_zgAiZPOTRmuje/view?usp=sharing" target="_blank">Career Cruising</a></li>
+                          <li>
+                              <a class="hvr" href="https://drive.google.com/open?id=1oo56yREd9s_Zmw_sfa8bJ3xJs6jE-eb3" target="_blank">ACP Portfolio Requirements</a>
+                          </li>
+                        </ul>
+                    </p>
+                    <p>
+                      <strong>Career &amp; Technical Education</strong><br>
+                      The Luxemburg-Casco School District offers multiple Career and Technical Education (CTE) courses throughout the following departments: Family and Consumer Sciences, Technology Education, Agriculture Education, and Business Education. Each of these departments purposefully aligns coursework to high-skill, high-demand, high-wage career opportunities. In addition to traditional coursework each department seeks out real-world, project-based learning experiences that offer students an opportunity to get outside of the traditional classroom, work hands-on in a business model, and have a say in their own learning.
                     </p>
                     <br>
                 </div><!-- /#main -->

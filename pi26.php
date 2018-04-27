@@ -26,6 +26,8 @@
                             <li><a href="go.php">Go</a></li>
                             <li class="active"><a href="pi26.php">PI 26 &amp; ACP <span class="sr-only">(current)</span></a></li>
                             <li><a href="parents.php">Parents</a></li>
+                            <li><a href="staff.php">Staff</a></li>
+                            <li><a href="partnerships.php">Partnerships</a></li>
                 <?php include 'templates/mast-end.php'; ?>
 
             <div id="content" class="row row-eq-height">
@@ -63,6 +65,10 @@
                         <li>
                             <a class="hvr" href="https://dpi.wi.gov/acp" target="_blank">DPI ACP Resources</a>
                             <p class="list-graph">The Wisconsin Department of Public Instruction has a variety of resources and guidelines for the ACP process.</p>
+                        </li>
+                        <li>
+                            <a class="hvr" href="https://drive.google.com/open?id=1oo56yREd9s_Zmw_sfa8bJ3xJs6jE-eb3" target="_blank">ACP Portfolio Requirements</a>
+                            <p class="list-graph">The ACP portfolio requirements allow students to reflect on their high school experiences through the lens of know, explore, plan, and go. This process helps students discover and develop a personalized plan for their life after high school.</p>
                         </li>
                         <li>
                             <a class="hvr" href="https://docs.google.com/document/d/1_ujnYEKWyk3304RSOd3tybBftJF7z1rMQz1XkHtMric" target="_blank">L-C Scope &amp; Sequence</a>
