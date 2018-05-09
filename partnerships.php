@@ -37,11 +37,18 @@
                     <br><br>
                     <p>The L-C ACP Committee, along with leadership in the district, has made it a goal to establish partnerships with local businesses in order to provide new and unique opportunities for students along their ACP journey.</p>
                     <hr class="rule-light">
-                    <p>                        
-                        <strong><a class="hvr" href="https://docs.google.com/forms/d/e/1FAIpQLSdj0YJ4Jvn1NxGxYarnAZfI-SZvf1dA6Q0CWwjjiKZDSHKPEA/viewform?usp=sf_link" target="_blank">Get Involved!</a></strong><br>
-                        Is your business interested in getting involved in the education of L-C students? Fill out this brief form to let the ACP Committee know how you could partner with the district to improve students' futures.
-                    </p>
-                    <br>
+                    <div class="row">
+                      <div class="col-md-6">
+                        <iframe width="100%" height="315" src="https://www.youtube.com/embed/I25V6d1f4tA?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                      </div><!-- /.col-md-6 -->
+                      <div class="col-md-6">
+                        <p>                        
+                          <strong><a class="hvr" href="https://docs.google.com/forms/d/e/1FAIpQLSdj0YJ4Jvn1NxGxYarnAZfI-SZvf1dA6Q0CWwjjiKZDSHKPEA/viewform?usp=sf_link" target="_blank">Get Involved!</a></strong><br>
+                          Is your business interested in getting involved in the education of L-C students? Fill out this brief form to let the ACP Committee know how you could partner with the district to improve students' futures.
+                        </p>
+                        <br>
+                      </div><!-- /.col-md-6 -->
+                    </div><!-- /.row -->
                 </div><!-- /#main -->
             </div><!-- /#content -->
 
