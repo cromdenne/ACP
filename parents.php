@@ -36,31 +36,11 @@
           <img src="images/spear.png" width="100%" alt="spear header underline">
           <br><br>
           <p>Families are an integral part of the ACP process! Families are encouraged to review their child’s plan and discuss all of the component opportunities in order to help them make thoughtful decisions that align with their goals. DPI is developing resources that schools can use to collaborate with parents in these efforts.</p>
-          <hr class="rule-light">
-          <p>                        
+          <hr class="rule-light"> 
+          <p>                    
             <img class="img-responsive img-thumbnail pull-right"
                  src="images/CareersOnWheels1617.jpeg"
                  width="450px" alt="students at Careers on Wheels 16-17">
-            <strong>School Handbooks</strong>
-            <ul class="no-space">
-              <li>
-                <a class="hvr"
-                   href="https://drive.google.com/file/d/0B_WzlktaiXg1SWg5MFJfTENEQWc/view"
-                   target="_blank">
-                  High School
-                </a>
-              </li>
-              <li>Middle School</li>
-              <li>Intermediate School</li>
-              <li>
-                <a class="hvr"
-                   href="https://drive.google.com/file/d/0B_WzlktaiXg1MzdNVkFlb3RvZTQ/view">
-                  Primary School
-                </a>
-              </li>
-            </ul>
-          </p>
-          <p>                        
             <strong>Financial Aid Information</strong>
             <ul class="no-space">
               <li>
@@ -151,6 +131,19 @@
           <p>
             <strong>Career &amp; Technical Education</strong><br>
             The Luxemburg-Casco School District offers multiple Career and Technical Education (CTE) courses throughout the following departments: Family and Consumer Sciences, Technology Education, Agriculture Education, and Business Education. Each of these departments purposefully aligns coursework to high-skill, high-demand, high-wage career opportunities. In addition to traditional coursework each department seeks out real-world, project-based learning experiences that offer students an opportunity to get outside of the traditional classroom, work hands-on in a business model, and have a say in their own learning.
+          </p>
+          <p>
+            <strong>Get Involved!</strong><br>
+            Do you think you could contribute to the Academic &amp; Career Planning process for students? Could you offer job shadowing, facility tours, guest speaking, or other valuable experiences? Do you want to be part of an advisory panel? If you'd like to take an active role in helping students on their educational journey, let us know! Fill out the form to help us understand how you can help.
+            <ul>
+              <li>
+                <a class="hvr"
+                   href="https://docs.google.com/forms/d/e/1FAIpQLScIYI9BXoDq2jeCs-3O3BpkNogN01jIt8wY01GkdRj1sbOzOA/viewform?usp=sf_link"
+                   target="_blank">
+                  Get Involved Survey
+                </a>
+              </li>
+            </ul>
           </p>
           <br>
         </div><!-- /#main -->

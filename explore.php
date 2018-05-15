@@ -37,7 +37,7 @@
           <br><br>
           <p>In “Explore,” L-C students investigate careers, local and state labor market needs, as well as service and work experience opportunities based on their interests and abilities. During the exploration stage, students will begin to narrow down their options to find and choose pathways that fit them best.</p>
           <hr class="rule-light">
-          <h3 class="fancy">Where do I want to go?</h3>
+          <h3 class="fancy">What do I want to do? Where do I want to go?</h3>
           <p>Explore career pathways and education opportunities. This stage includes the following topics.</p>
 
           <p class="graph-space">
@@ -113,11 +113,14 @@
           <h3>Resources</h3>
           <ul class="unstyled">
             <li>
+                <a class="hvr" href="https://drive.google.com/open?id=1oo56yREd9s_Zmw_sfa8bJ3xJs6jE-eb3" target="_blank">ACP Portfolio Requirements</a>
+                <p class="list-graph">The ACP portfolio requirements allow students to reflect on their high school experiences through the lens of know, explore, plan, and go. This process helps students discover and develop a personalized plan for their life after high school.</p>
+            </li>
+            <li>
               <a class="hvr"
                  href="https://bigfuture.collegeboard.org/get-started"
                  target="_blank">Big Future College Board</a>
             </li>
-            <li><a class="hvr" href="http://www.nextvista.org/collection/light-bulbs/careers/" target="_blank">Career Videos</a></li>
             <li>
               <a class="hvr"
                  href="http://adults.wicareerpathways.org/"

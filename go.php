@@ -80,6 +80,10 @@
                     <h3>Resources</h3>
                     <ul class="unstyled">
                         <li>
+                            <a class="hvr" href="https://drive.google.com/open?id=1oo56yREd9s_Zmw_sfa8bJ3xJs6jE-eb3" target="_blank">ACP Portfolio Requirements</a>
+                            <p class="list-graph">The ACP portfolio requirements allow students to reflect on their high school experiences through the lens of know, explore, plan, and go. This process helps students discover and develop a personalized plan for their life after high school.</p>
+                        </li>
+                        <li>
                             <a class="hvr" href="https://www.bls.gov/k12/" target="_blank">Bureau of Labor Statistics</a>
                             <p class="list-graph">The Bureau of Labor Statistics’ mission is to collect, analyze, and disseminate essential economic information to support public and private decision-making. As an independent statistical agency, BLS serves its diverse user communities by providing products and services that are objective, timely, accurate, and relevant.</p>
                         </li>
@@ -106,6 +110,10 @@
                         <li>
                             <a class="hvr" href="https://www.wisconsin.edu" target="_blank">University of Wisconsin Colleges</a>
                             <p class="list-graph">The UW System is made up of 13 four-year universities, 13 freshman-sophomore UW Colleges campuses, and statewide UW-Extension. Together, these institutions are a tremendous academic, cultural, and economic resource for Wisconsin, the nation, and the world.</p>
+                        </li>
+                        <li>
+                            <a class="hvr" href="https://sso.careercruising.com/page/openidconnect" target="_blank">Career Cruising</a>
+                            <p class="list-graph">Career Cruising is an Internet-based career exploration and planning tool used by students in grades 6-12 to explore career and college options and develop a career plan. Through Career Cruising students will build self-awareness, learn about career possibilities and educational pathways, and create an actionable plan to achieve career, school and life goals.</p>
                         </li>
                     </ul>
                 </div><!-- /#sidebar -->

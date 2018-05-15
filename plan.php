@@ -133,6 +133,10 @@
                             <a class="hvr" href="http://lookforwardwi.gov/" target="_blank">Look Forward to Your Future</a>
                             <p class="list-graph">A website that breaks down what students should be doing at each grade level to prepare for their post-secondary plans.</p>
                         </li>
+                        <li>
+                            <a class="hvr" href="https://sso.careercruising.com/page/openidconnect" target="_blank">Career Cruising</a>
+                            <p class="list-graph">Career Cruising is an Internet-based career exploration and planning tool used by students in grades 6-12 to explore career and college options and develop a career plan. Through Career Cruising students will build self-awareness, learn about career possibilities and educational pathways, and create an actionable plan to achieve career, school and life goals.</p>
+                        </li>
                     </ul>
                 </div><!-- /#sidebar -->
 
