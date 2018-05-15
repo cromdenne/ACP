@@ -79,7 +79,7 @@
                     </div><!-- /.textKnow -->
                     <div id="textExplore" class="textHidden">
                         <h3>EXPLORE</h3>
-                        <h4 class="fancy">Where do I want to go?</h4>
+                        <h4 class="fancy">What do I want to do? Where do I want to go?</h4>
                         <p>Explore career pathways and education opportunities. This stage includes:</p>
                         <ul>
                             <li>Middle School career exploration activities and opportunities</li>
