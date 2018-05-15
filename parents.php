@@ -100,6 +100,13 @@
                   Middle School Spartan Summits 2018 (8th Grade)
                 </a>
               </li>
+              <li>
+                <a class="hvr"
+                   href="https://www.youtube.com/watch?v=qIh8uDJfhIQ"
+                   target="_blank">
+                  Work-Based Learning Overview Video
+                </a>
+              </li>
             </ul>
           </p>
           <p><strong>Scope &amp; Sequence</strong>
