@@ -36,7 +36,7 @@
           <img src="images/spear.png" width="100%" alt="spear header underline">
           <br><br>
           <img class="img-responsive img-thumbnail pull-right"
-               src="images/LCACP-CESA7share.JPG" width="300px">
+               src="images/LCACP-CESA7share.jpg" width="300px">
           <p>
             Beginning with the 2017-2018 school year in the state of Wisconsin, every school board and district is required to provide academic and career planning <a class="hvr" href="https://docs.google.com/document/d/1_ujnYEKWyk3304RSOd3tybBftJF7z1rMQz1XkHtMric/edit" target="_blank">services to students in grades 6-12</a> enrolled in the district. In addition under PI 26, school boards and districts must meet the following requirements:
             <ul>
