@@ -84,7 +84,7 @@
           <h3>Resources</h3>
           <ul class="unstyled">
             <li>
-              <a class="hvr" href="https://drive.google.com/open?id=1oo56yREd9s_Zmw_sfa8bJ3xJs6jE-eb3" target="_blank">ACP Portfolio Requirements</a>
+              <a class="hvr" href="https://drive.google.com/open?id=1SAFH2BWXbanyDCHETdpsOKeGifVlsVp2" target="_blank">ACP Portfolio Requirements</a>
               <p class="list-graph">The ACP portfolio requirements allow students to reflect on their high school experiences through the lens of know, explore, plan, and go. This process helps students discover and develop a personalized plan for their life after high school.</p>
             </li>
             <li>
