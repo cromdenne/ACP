@@ -42,7 +42,7 @@
 
           <p class="graph-space">
             <h5>Career Exploration</h5>
-            <img class="img-responsive img-thumbnail pull-right" src="images/FYIEvent2017.JPG" width="250px">
+            <img class="img-responsive img-thumbnail pull-right" src="images/FYIEvent2018.jpg" width="250px">
             All L-C students will have opportunities to participate in career-based events at various grade levels such as career fairs, job shadowing, and field trips. It is important for students to have opportunities to explore careers in various pathways. Using <a class="hvr" href="https://sso.careercruising.com/page/openidconnect" target="_blank">Career Cruising</a>, students will have access to the local labor market statistics as well as the 16 career clusters.
           </p>
 
