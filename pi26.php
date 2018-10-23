@@ -82,7 +82,7 @@
             </li>
             <li>
               <a class="hvr"
-                 href="https://drive.google.com/open?id=1SAFH2BWXbanyDCHETdpsOKeGifVlsVp2"
+                 href="https://drive.google.com/file/d/18w5VJTnw-lmTji9aky4RKt2iwb4jef2k/view?usp=sharing"
                  target="_blank">
                 ACP Portfolio Requirements
               </a>
