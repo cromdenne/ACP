@@ -45,7 +45,7 @@
                   <a class="hvr" href="https://www.careercruising.com" target="_blank">Career Cruising</a><br>
                   <a class="hvr" href="https://drive.google.com/file/d/1owZYj-tRmjF0wtHeui_zgAiZPOTRmuje/view?usp=sharing" target="_blank">Career Cruising Activities</a><br>
                   <a class="hvr" href="https://drive.google.com/file/d/0B_WzlktaiXg1YVNKaENuX3RpeDl6aG9GUkJXUlNZTVUydE1r/view?usp=sharing" target="_blank">Table of Components</a><br>
-                  <a class="hvr" href="https://drive.google.com/file/d/18w5VJTnw-lmTji9aky4RKt2iwb4jef2k/view?usp=sharing" target="_blank">Portfolio Requirements</a><br>
+                  <a class="hvr" href="https://drive.google.com/open?id=16VSdE5ndSXf23pHrDhE1H2gCCVm4xA6B" target="_blank">Portfolio Requirements</a><br>
                   <a class="hvr" href="https://docs.google.com/document/d/10-oP323BXpg0kR8RVaOMSCTPpskoaygjCeyVHty2Bsk/edit?usp=sharing" target="_blank">Graduation Checklist</a><br>
                   <a class="hvr" href="https://www.youtube.com/watch?v=tpXQIKzgya0&feature=youtu.be" target="_blank">Why ACP Matters</a><br>
                 </p>
