@@ -109,9 +109,9 @@
             </li>
             <li>
               <a class="hvr"
-                 href="https://docs.google.com/document/d/1upWDLHiFpYpqKbmtql42pmxRJ7sljT1xfszCL5ii0d4/edit?usp=sharing"
+                 href="https://docs.google.com/document/d/1U6Yi7uNSlbIpLR7S5hOg6iaYvvBBpRzhto763oOB-2A/edit?usp=sharing"
                  target="_blank">
-                L-C Strategic Plan (Spring '17)
+                L-C Strategic Plan (Winter '19)
               </a>
             </li>
             <li>
