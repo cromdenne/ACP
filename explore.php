@@ -70,6 +70,14 @@
                 <p>Each week students at the Intermediate School showcase a new and exciting career path for Spartans. Check out the YouTube videos below to see all of the careers the Intermediate School students have explored.
                 </p>
                 <a class="hvr" target="_blank"
+                   href="https://www.youtube.com/watch?v=t7URkKPDwRw">
+                  Manufacturing Engineer
+                </a><br>
+                <a class="hvr" target="_blank"
+                   href="https://www.youtube.com/watch?v=AeFTsnMItM4">
+                  Bus Driver
+                </a><br>
+                <a class="hvr" target="_blank"
                    href="https://www.youtube.com/watch?v=HgGMpdGfwtg">
                   Court Clerk
                 </a><br>
@@ -159,7 +167,7 @@
                 </a><br>
               </div><!-- /.col-md-6 -->
               <div class="col-md-6">
-                <iframe width="100%" height="315" src="https://www.youtube.com/embed/HgGMpdGfwtg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                <iframe width="100%" height="315" src="https://www.youtube.com/embed/t7URkKPDwRw?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
               </div><!-- /.col-md-6 -->
             </div><!-- /.row -->
           </p>
