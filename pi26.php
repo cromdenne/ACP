@@ -121,6 +121,13 @@
                 L-C ACP Multi-Year Plan
               </a>
             </li>
+            <li>
+              <a class="hvr"
+                 href="https://docs.google.com/document/d/1U6Yi7uNSlbIpLR7S5hOg6iaYvvBBpRzhto763oOB-2A/edit?usp=sharing"
+                 target="_blank">
+                L-C ACP 2018-2019 Annual Plan
+              </a>
+            </li>
           </ul>
         </div><!-- /#sidebar -->
 
