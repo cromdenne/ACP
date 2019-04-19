@@ -118,52 +118,8 @@
                   Police Patrol Officer
                 </a><br>
                 <a class="hvr" target="_blank"
-                   href="https://www.youtube.com/watch?v=nqgPcq2B_oY">
-                  Substance Abuse and Behavorial Disorder Counselor 
-                </a><br>
-                <a class="hvr" target="_blank"
-                   href="https://www.youtube.com/watch?v=6hOjsXYbWjA">
-                  Financial Management
-                </a><br>
-                <a class="hvr" target="_blank"
-                   href="https://www.youtube.com/watch?v=LXx3FOBNk50">
-                  Pharmacologist
-                </a><br>
-                <a class="hvr" target="_blank"
-                   href="https://www.youtube.com/watch?v=vOX87vp8J0U">
-                  Agent
-                </a><br>
-                <a class="hvr" target="_blank"
-                   href="https://www.youtube.com/watch?v=qyjtauKWAZE">
-                  Industrial Engineer
-                </a><br>
-                <a class="hvr" target="_blank"
-                   href="https://www.youtube.com/watch?v=ggZ2RQZEEZc">
-                  Nanny
-                </a><br>
-                <a class="hvr" target="_blank"
-                   href="https://www.youtube.com/watch?v=xUFhksnNRyY">
-                  Video Game Developer
-                </a><br>
-                <a class="hvr" target="_blank"
-                   href="https://www.youtube.com/watch?v=6MorgkVitl8">
-                  Lifeguard
-                </a><br>
-                <a class="hvr" target="_blank"
-                   href="https://www.youtube.com/watch?v=CCQZLLxqIeQ">
-                  Oncologist
-                </a><br>
-                <a class="hvr" target="_blank"
-                   href="https://www.youtube.com/watch?v=4VkcGdHcoE4">
-                  Stunt Person
-                </a><br>
-                <a class="hvr" target="_blank"
-                   href="https://www.youtube.com/watch?v=emGwCzFchnU">
-                  Civil Engineer
-                </a><br>
-                <a class="hvr" target="_blank"
-                   href="https://www.youtube.com/watch?v=WlyAKlg6Xwo">
-                  Animal Trainer
+                   href="https://www.youtube.com/channel/UCbT2sCIu0n1q7gCEIXwHgCQ/videos">
+                  See all videos
                 </a><br>
               </div><!-- /.col-md-6 -->
               <div class="col-md-6">
@@ -187,7 +143,41 @@
               </div><!-- /.col-md-6 -->
             </div><!-- /.row -->
           </p><!-- /.graph-space -->
-
+          <p class="graph-space">
+            <h5>Freshman Career Day</h5>
+            <div class="row">
+              <div class="col-md-6">
+                <p>
+                  The Career Readiness Business Tour, open to freshman 
+                  students, gives firsthand exposure to potential careers 
+                  through tours and presentations on career and apprenticeship 
+                  opportunities. Each participating student will visit five 
+                  different businesses throughout Kewaunee and Brown counties 
+                  over the course of the day.
+                </p>
+                <p>
+                  “Our goal is to change the school experience by exposing the 
+                  students to things they otherwise would not do,” says Mike 
+                  Snowberry, director of learning services for the 
+                  Luxemburg-Casco School District. “The more we let them know 
+                  about, and experience, career options, they are better 
+                  positioned to know what courses they should take during their 
+                  final three years of high school.
+                </p>
+                <p>
+                  “The district feels strongly that it must prepare students to 
+                  be college, career and community ready. As part of that, we 
+                  believe it is important we provide hands-on, authentic 
+                  experiences that provide students with awareness and skills 
+                  needed for whatever future pathway they choose. We are 
+                  excited to offer this program.”
+                </p>
+              </div><!-- /.col-md-6 -->
+              <div class="col-md-6">
+                <iframe width="100%" height="315" src="https://www.youtube.com/embed/gY_qvg2Gv1o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+              </div><!-- /.col-md-6 -->
+            </div><!-- /.row -->
+          </p><!-- /.graph-space -->
         </div><!-- /#main -->
         <div id="pane-right" class="col-md-3 sidebar">
           <h3>Resources</h3>
