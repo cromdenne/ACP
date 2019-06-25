@@ -41,7 +41,7 @@
               <div class="col-sm-6">
                 <p>                        
                   <a class="hvr" href="https://docs.google.com/document/d/1ep2uxeeDnSMFZpjErTbtSGGBhU5YPLxUNiQrhM8JvRY/edit?usp=sharing" target="_blank">ACP Multi-year Plan</a><br>
-                  <a class="hvr" href="https://docs.google.com/document/d/1U6Yi7uNSlbIpLR7S5hOg6iaYvvBBpRzhto763oOB-2A/edit?usp=sharing" target="_blank">ACP 2018-2019 Annual Plan</a><br>
+                  <a class="hvr" href="https://docs.google.com/document/d/16mfUbUeaqGYN9buJXLyaZcuFwuwz_LENmfVQ1P-wozE/edit?ts=5d120fd6#heading=h.tc9y1p6ut8mw" target="_blank">ACP 2019-2020 Annual Plan</a><br>
                   <a class="hvr" href="https://docs.google.com/document/d/1_ujnYEKWyk3304RSOd3tybBftJF7z1rMQz1XkHtMric/edit?usp=sharing" target="_blank">L-C Scope &amp; Sequence</a><br>
                   <a class="hvr" href="https://www.careercruising.com" target="_blank">Career Cruising</a><br>
                   <a class="hvr" href="https://drive.google.com/file/d/1owZYj-tRmjF0wtHeui_zgAiZPOTRmuje/view?usp=sharing" target="_blank">Career Cruising Activities</a><br>
