@@ -43,7 +43,7 @@
                   <a class="hvr" href="https://docs.google.com/document/d/1ep2uxeeDnSMFZpjErTbtSGGBhU5YPLxUNiQrhM8JvRY/edit?usp=sharing" target="_blank">ACP Multi-year Plan</a><br>
                   <a class="hvr" href="https://docs.google.com/document/d/16mfUbUeaqGYN9buJXLyaZcuFwuwz_LENmfVQ1P-wozE/edit?ts=5d120fd6#heading=h.tc9y1p6ut8mw" target="_blank">ACP 2019-2020 Annual Plan</a><br>
                   <a class="hvr" href="https://docs.google.com/document/d/1_ujnYEKWyk3304RSOd3tybBftJF7z1rMQz1XkHtMric/edit?usp=sharing" target="_blank">L-C Scope &amp; Sequence</a><br>
-                  <a class="hvr" href="https://www.careercruising.com" target="_blank">Career Cruising</a><br>
+                  <a class="hvr" href="https://auth.xello.world/Google/Educator/4A839AAC-DE10-4460-9266-928B1BD2AA9C" target="_blank">Xello</a><br>
                   <a class="hvr" href="https://drive.google.com/file/d/1owZYj-tRmjF0wtHeui_zgAiZPOTRmuje/view?usp=sharing" target="_blank">Career Cruising Activities</a><br>
                   <a class="hvr" href="https://drive.google.com/file/d/0B_WzlktaiXg1YVNKaENuX3RpeDl6aG9GUkJXUlNZTVUydE1r/view?usp=sharing" target="_blank">Table of Components</a><br>
                   <a class="hvr" href="https://drive.google.com/open?id=16VSdE5ndSXf23pHrDhE1H2gCCVm4xA6B" target="_blank">Portfolio Requirements</a><br>

@@ -116,8 +116,8 @@
               <p class="list-graph">The UW System is made up of 13 four-year universities, 13 freshman-sophomore UW Colleges campuses, and statewide UW-Extension. Together, these institutions are a tremendous academic, cultural, and economic resource for Wisconsin, the nation, and the world.</p>
             </li>
             <li>
-              <a class="hvr" href="https://sso.careercruising.com/page/openidconnect" target="_blank">Career Cruising</a>
-              <p class="list-graph">Career Cruising is an Internet-based career exploration and planning tool used by students in grades 6-12 to explore career and college options and develop a career plan. Through Career Cruising students will build self-awareness, learn about career possibilities and educational pathways, and create an actionable plan to achieve career, school and life goals.</p>
+              <a class="hvr" href="https://auth.xello.world/Google/Student/4A839AAC-DE10-4460-9266-928B1BD2AA9C" target="_blank">Xello</a>
+              <p class="list-graph">Xello is an engaging, online program that helps students transform their aspirations into personalized, actionable plans for academic and career success.</p>
             </li>
           </ul>
         </div><!-- /#sidebar -->

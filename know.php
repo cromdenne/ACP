@@ -71,8 +71,8 @@
                             <p class="list-graph">The ACP portfolio requirements allow students to reflect on their high school experiences through the lens of know, explore, plan, and go. This process helps students discover and develop a personalized plan for their life after high school.</p>
                         </li>
                         <li>
-                            <a class="hvr" href="https://sso.careercruising.com/page/openidconnect" target="_blank">Career Cruising</a>
-                            <p class="list-graph">Career Cruising is an Internet-based career exploration and planning tool used by students in grades 6-12 to explore career and college options and develop a career plan. Through Career Cruising students will build self-awareness, learn about career possibilities and educational pathways, and create an actionable plan to achieve career, school and life goals.</p>
+                            <a class="hvr" href="https://auth.xello.world/Google/Student/4A839AAC-DE10-4460-9266-928B1BD2AA9C" target="_blank">Xello</a>
+                            <p class="list-graph">Xello is an engaging, online program that helps students transform their aspirations into personalized, actionable plans for academic and career success.</p>
                         </li>
                         <li>
                             <a class="hvr" href="http://skillexplorer.wisconsin.gov/Search.aspx" target="_blank">Skill Explorer</a>
