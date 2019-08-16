@@ -102,9 +102,9 @@
             </li>
             <li>
               <a class="hvr"
-                 href="https://drive.google.com/file/d/1owZYj-tRmjF0wtHeui_zgAiZPOTRmuje/view?usp=sharing"
+                 href="https://drive.google.com/open?id=1bUqMEsg62qxolPdkk7sUi62fschZTL0j"
                  target="_blank">
-                Career Cruising Scope &amp; Sequence
+                Xello Scope &amp; Sequence
               </a>
             </li>
             <li>
