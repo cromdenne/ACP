@@ -28,6 +28,11 @@
                             <li><a href="parents.php">Parents</a></li>
                             <li><a href="staff.php">Staff</a></li>
                             <li class="active"><a href="partnerships.php">Partnerships<span class="sr-only">(current)</span></a></li>
+                            <li>
+                                <a href="https://auth.xello.world/Google/Student/4A839AAC-DE10-4460-9266-928B1BD2AA9C" target="_blank" rel="noopener noreferrer">
+                                  Xello
+                                </a>
+                            </li>
                 <?php include 'templates/mast-end.php'; ?>
 
             <div id="content" class="row row-eq-height">

@@ -28,6 +28,11 @@
                 <li><a href="parents.php">Parents</a></li>
                 <li class="active"><a href="staff.php">Staff<span class="sr-only">(current)</span></a></li>
                 <li><a href="partnerships.php">Partnerships</a></li>
+                <li>
+                    <a href="https://auth.xello.world/Google/Student/4A839AAC-DE10-4460-9266-928B1BD2AA9C" target="_blank" rel="noopener noreferrer">
+                      Xello
+                    </a>
+                </li>
           <?php include 'templates/mast-end.php'; ?>
 
         <div id="content" class="row row-eq-height">
@@ -46,7 +51,10 @@
                   <a class="hvr" href="https://auth.xello.world/Google/Educator/4A839AAC-DE10-4460-9266-928B1BD2AA9C" target="_blank">Xello</a><br>
                   <a class="hvr" href="https://drive.google.com/open?id=1bUqMEsg62qxolPdkk7sUi62fschZTL0j" target="_blank">Xello Scope &amp; Sequence</a><br>
                   <a class="hvr" href="https://drive.google.com/file/d/0B_WzlktaiXg1YVNKaENuX3RpeDl6aG9GUkJXUlNZTVUydE1r/view?usp=sharing" target="_blank">Table of Components</a><br>
-                  <a class="hvr" href="https://drive.google.com/open?id=10G5su4b4wLAhCuAXu9xlICopqUMmrzAY" target="_blank">Portfolio Requirements</a><br>
+                  <a class="hvr" href="https://drive.google.com/open?id=10G5su4b4wLAhCuAXu9xlICopqUMmrzAY" target="_blank">ACP Portfolio Requirements</a><br>
+                  <a class="hvr" href="https://docs.google.com/document/d/1kg_NTLOK_UznXxOhfLpQ4Did1c9H5g34ZdsEu0-WTyo/edit?usp=sharing" target="_blank">
+                    ACP Portfolio Template
+                  </a><br>
                   <a class="hvr" href="https://docs.google.com/document/d/10-oP323BXpg0kR8RVaOMSCTPpskoaygjCeyVHty2Bsk/edit?usp=sharing" target="_blank">Graduation Checklist</a><br>
                   <a class="hvr" href="https://www.youtube.com/watch?v=tpXQIKzgya0&feature=youtu.be" target="_blank">Why ACP Matters</a><br>
                 </p>

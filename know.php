@@ -28,6 +28,11 @@
                             <li><a href="parents.php">Parents</a></li>
                             <li><a href="staff.php">Staff</a></li>
                             <li><a href="partnerships.php">Partnerships</a></li>
+                            <li>
+                                <a href="https://auth.xello.world/Google/Student/4A839AAC-DE10-4460-9266-928B1BD2AA9C" target="_blank" rel="noopener noreferrer">
+                                  Xello
+                                </a>
+                            </li>
                 <?php include 'templates/mast-end.php'; ?>
 
             <div id="content" class="row row-eq-height">
@@ -69,6 +74,11 @@
                         <li>
                             <a class="hvr" href="https://drive.google.com/open?id=10G5su4b4wLAhCuAXu9xlICopqUMmrzAY" target="_blank">ACP Portfolio Requirements</a>
                             <p class="list-graph">The ACP portfolio requirements allow students to reflect on their high school experiences through the lens of know, explore, plan, and go. This process helps students discover and develop a personalized plan for their life after high school.</p>
+                        </li>
+                        <li>
+                            <a class="hvr" href="https://docs.google.com/document/d/1kg_NTLOK_UznXxOhfLpQ4Did1c9H5g34ZdsEu0-WTyo/edit?usp=sharing" target="_blank">
+                              ACP Portfolio Template
+                            </a>
                         </li>
                         <li>
                             <a class="hvr" href="https://auth.xello.world/Google/Student/4A839AAC-DE10-4460-9266-928B1BD2AA9C" target="_blank">Xello</a>
