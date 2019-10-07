@@ -77,25 +77,6 @@
             </ul>
           </p>
           <p>                        
-            <strong>Career Cruising Parent Access</strong>
-            <ul class="no-space">
-              <li>
-                <a class="hvr"
-                   href="documents/CareerCruisingParentPortalAccessInstructions.pdf"
-                   target="_blank">
-                  Instructions
-                </a>
-              </li>
-              <li>
-                <a class="hvr"
-                   href="https://careercruising.com/parent/"
-                   target="_blank">
-                  Parent Portal
-                </a>
-              </li>
-            </ul>
-          </p>
-          <p>                        
             <strong>Counseling</strong>
             <ul class="no-space">
               <li>
