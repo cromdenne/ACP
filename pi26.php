@@ -20,14 +20,11 @@
     
       <?php include 'templates/mast-begin.php'; ?>
                 <li><a href="index.php">Home</a></li>
-                <li><a href="know.php">Know</a></li>
-                <li><a href="explore.php">Explore</a></li>
-                <li><a href="plan.php">Plan</a></li>
-                <li><a href="go.php">Go</a></li>
-                <li class="active"><a href="pi26.php">PI 26 &amp; ACP <span class="sr-only">(current)</span></a></li>
+                <li><a href="students.php">Students</a></li>
                 <li><a href="parents.php">Parents</a></li>
                 <li><a href="staff.php">Staff</a></li>
                 <li><a href="partnerships.php">Partnerships</a></li>
+                <li class="active"><a href="pi26.php">PI 26 &amp; ACP <span class="sr-only">(current)</span></a></li>
                 <li>
                     <a href="https://auth.xello.world/Google/Student/4A839AAC-DE10-4460-9266-928B1BD2AA9C" target="_blank" rel="noopener noreferrer">
                       Xello

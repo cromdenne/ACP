@@ -20,14 +20,11 @@
         
             <?php include 'templates/mast-begin.php'; ?>
                             <li><a href="index.php">Home</a></li>
-                            <li class="active"><a href="know.php">Know <span class="sr-only">(current)</span></a></li>
-                            <li><a href="explore.php">Explore</a></li>
-                            <li><a href="plan.php">Plan</a></li>
-                            <li><a href="go.php">Go</a></li>
-                            <li><a href="pi26.php">PI 26 &amp; ACP</a></li>
+                            <li class="active"><a href="students.php">Students <span class="sr-only">(current)</span></a></li>
                             <li><a href="parents.php">Parents</a></li>
                             <li><a href="staff.php">Staff</a></li>
                             <li><a href="partnerships.php">Partnerships</a></li>
+                            <li><a href="pi26.php">PI 26 &amp; ACP</a></li>
                             <li>
                                 <a href="https://auth.xello.world/Google/Student/4A839AAC-DE10-4460-9266-928B1BD2AA9C" target="_blank" rel="noopener noreferrer">
                                   Xello
@@ -83,18 +80,6 @@
                         <li>
                             <a class="hvr" href="https://auth.xello.world/Google/Student/4A839AAC-DE10-4460-9266-928B1BD2AA9C" target="_blank">Xello</a>
                             <p class="list-graph">Xello is an engaging, online program that helps students transform their aspirations into personalized, actionable plans for academic and career success.</p>
-                        </li>
-                        <li>
-                            <a class="hvr" href="http://skillexplorer.wisconsin.gov/Search.aspx" target="_blank">Skill Explorer</a>
-                            <p class="list-graph">Skill Explorer helps students identify transferable skills, career pathway opportunities, and training needs for occupations they are interested in pursuing.</p>
-                        </li>
-                        <li>
-                            <a class="hvr" href="https://www.16personalities.com/" target="_blank">16 Personalities</a>
-                            <p class="list-graph">16 Personalities profiling helps students gain a concrete, accurate description of who they are and why they do things the way they do.</p>
-                        </li>
-                        <li>
-                            <a class="hvr" href="https://www.mynextmove.org/explore/ip" target="_blank">O*NET Interest Profiler</a>
-                            <p class="list-graph">The O*NET Interest Profiler can help students find out what their interests are and how they relate to their education and the world of work.</p>
                         </li>
                     </ul>
                 </div><!-- /#sidebar -->

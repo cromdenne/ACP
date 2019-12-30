@@ -20,14 +20,11 @@
   
       <?php include 'templates/mast-begin.php'; ?>
                 <li><a href="index.php">Home</a></li>
-                <li><a href="know.php">Know</a></li>
-                <li class="active"><a href="explore.php">Explore <span class="sr-only">(current)</span></a></li>
-                <li><a href="plan.php">Plan</a></li>
-                <li><a href="go.php">Go</a></li>
-                <li><a href="pi26.php">PI 26 &amp; ACP</a></li>
+                <li class="active"><a href="students.php">Students <span class="sr-only">(current)</span></a></li>
                 <li><a href="parents.php">Parents</a></li>
                 <li><a href="staff.php">Staff</a></li>
                 <li><a href="partnerships.php">Partnerships</a></li>
+                <li><a href="pi26.php">PI 26 &amp; ACP</a></li>
                 <li>
                     <a href="https://auth.xello.world/Google/Student/4A839AAC-DE10-4460-9266-928B1BD2AA9C" target="_blank" rel="noopener noreferrer">
                       Xello
@@ -178,38 +175,9 @@
             </li>
             <li>
               <a class="hvr"
-                 href="https://bigfuture.collegeboard.org/get-started"
-                 target="_blank">Big Future College Board</a>
-            </li>
-            <li>
-              <a class="hvr"
-                 href="http://adults.wicareerpathways.org/"
-                 target="_blank">Wisconsin Career Pathways</a>
-              <p class="list-graph">By setting up an account, students are driven to the Student Interest Survey for CareerClusters®. After completing the survey, students can explore the 16 Career Clusters® and drill down into career pathways.</p>
-            </li>
-            <li>
-              <a class="hvr"
-                 href="http://www.nextvista.org/collection/light-bulbs/careers/"
-                 target="_blank">Next Vista for Learning</a>
-              <p class="list-graph">Next Vista for Learning has a large collection of careers videos to help middle and high school students better understand and connect to their future possibilities.</p>
-            </li>
-            <li>
-              <a class="hvr"
-                 href="http://skillexplorer.wisconsin.gov/Search.aspx"
-                 target="_blank">Skill Explorer</a>
-              <p class="list-graph">Skill Explorer helps students identify transferable skills, career pathway opportunities, and training needs for occupations they are interested in pursuing.</p>
-            </li>
-            <li>
-              <a class="hvr"
                  href="https://www.bls.gov/home.htm"
                  target="_blank">Bureau of Labor Statistics</a>
               <p class="list-graph">Find careers that relate to your interests and learn fun facts about the economy and jobs.</p>
-            </li>
-            <li>
-              <a class="hvr"
-                 href="http://central.wawm.k12.wi.us/UserFiles/Servers/Server_1213077/File/Students/NACESurveyWhatEmployersWanttoSeeonNewCollegeGradResumes.pdf"
-                 target="_blank">NACE Attributes</a>
-              <p class="list-graph">This link provides a survey outlining the attributes employers and colleges seek in candidates.</p>
             </li>
             <li>
               <a class="hvr"

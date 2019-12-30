@@ -20,14 +20,11 @@
     
       <?php include 'templates/mast-begin.php'; ?>
                 <li><a href="index.php">Home</a></li>
-                <li><a href="know.php">Know</a></li>
-                <li><a href="explore.php">Explore</a></li>
-                <li><a href="plan.php">Plan</a></li>
-                <li class="active"><a href="go.php">Go <span class="sr-only">(current)</span></a></li>
-                <li><a href="pi26.php">PI 26 &amp; ACP</a></li>
+                <li class="active"><a href="students.php">Students <span class="sr-only">(current)</span></a></li>
                 <li><a href="parents.php">Parents</a></li>
                 <li><a href="staff.php">Staff</a></li>
                 <li><a href="partnerships.php">Partnerships</a></li>
+                <li><a href="pi26.php">PI 26 &amp; ACP</a></li>
                 <li>
                     <a href="https://auth.xello.world/Google/Student/4A839AAC-DE10-4460-9266-928B1BD2AA9C" target="_blank" rel="noopener noreferrer">
                       Xello
@@ -100,30 +97,6 @@
             <li>
               <a class="hvr" href="https://www.bls.gov/k12/" target="_blank">Bureau of Labor Statistics</a>
               <p class="list-graph">The Bureau of Labor Statistics’ mission is to collect, analyze, and disseminate essential economic information to support public and private decision-making. As an independent statistical agency, BLS serves its diverse user communities by providing products and services that are objective, timely, accurate, and relevant.</p>
-            </li>
-            <li>
-              <a class="hvr" href="http://dwd.wi.gov/skillexplorer/brochure.pdf" target="_blank">Skill Explorer</a>
-              <p class="list-graph">Skill Explorer helps students identify transferable skills, career pathway opportunities, and training needs for occupations they are interested in pursuing.</p>
-            </li>
-            <li>
-              <a class="hvr" href="http://www.military.com/join-armed-forces/us-military-overview.html" target="_blank">U.S. Armed Forces Overview</a>
-              <p class="list-graph">This link gives background of the Armed Forces and what they have to offer to people interested in joining, as well as news and information for active military and veterans.</p>
-            </li>
-            <li>
-              <a class="hvr" href="https://jobcenterofwisconsin.com" target="_blank">Job Center of Wisconsin</a>
-              <p class="list-graph">This link allows employers and job seekers to search the state of Wisconsin for suitable employees and occupations.</p>
-            </li>
-            <li>
-              <a class="hvr" href="http://www.wtcsystem.edu/" target="_blank">Wisconsin Technical College System</a>
-              <p class="list-graph">The Wisconsin Technical College System develops individuals at every stage of their academic and work careers into experts and entrepreneurs who make an immediate, local economic impact.</p>
-            </li>
-            <li>
-              <a class="hvr" href="http://www.wisconsinsprivatecolleges.org" target="_blank">Wisconsin Private Colleges</a>
-              <p class="list-graph">Wisconsin's private, nonprofit colleges and universities working together for educational opportunity.</p>
-            </li>
-            <li>
-              <a class="hvr" href="https://www.wisconsin.edu" target="_blank">University of Wisconsin Colleges</a>
-              <p class="list-graph">The UW System is made up of 13 four-year universities, 13 freshman-sophomore UW Colleges campuses, and statewide UW-Extension. Together, these institutions are a tremendous academic, cultural, and economic resource for Wisconsin, the nation, and the world.</p>
             </li>
             <li>
               <a class="hvr" href="https://auth.xello.world/Google/Student/4A839AAC-DE10-4460-9266-928B1BD2AA9C" target="_blank">Xello</a>
