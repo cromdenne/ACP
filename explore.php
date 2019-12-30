@@ -75,52 +75,32 @@
                 <p>Each week students at the Intermediate School showcase a new and exciting career path for Spartans. Check out the YouTube videos below to see all of the careers the Intermediate School students have explored.
                 </p>
                 <a class="hvr" target="_blank"
-                   href="https://www.youtube.com/watch?v=t7URkKPDwRw">
-                  Manufacturing Engineer
+                   href="https://www.youtube.com/watch?v=MVb4xqru-_k">
+                  Fashion Designer
                 </a><br>
                 <a class="hvr" target="_blank"
-                   href="https://www.youtube.com/watch?v=AeFTsnMItM4">
-                  Bus Driver
+                   href="https://www.youtube.com/watch?v=BJdMCkJr52Q">
+                  Architectural Drafter
                 </a><br>
                 <a class="hvr" target="_blank"
-                   href="https://www.youtube.com/watch?v=HgGMpdGfwtg">
-                  Court Clerk
+                   href="https://www.youtube.com/watch?v=ykA1bba8IM0">
+                  Biochemical Engineer
                 </a><br>
                 <a class="hvr" target="_blank"
-                   href="https://www.youtube.com/watch?v=rPD-WohydLo">
-                  Landscape Architect
+                   href="https://www.youtube.com/watch?v=_PtwPDHOaG4">
+                  Sports Marketer
                 </a><br>
                 <a class="hvr" target="_blank"
-                   href="https://www.youtube.com/watch?v=ndoaIZ5JDHg">
-                  Real Estate Sales Agent
+                   href="https://www.youtube.com/watch?v=Kza7Kyg9qz8">
+                  Fire Inspector
                 </a><br>
                 <a class="hvr" target="_blank"
-                   href="https://www.youtube.com/watch?v=Hye93R3b4Gw">
-                  Accountant
+                   href="https://www.youtube.com/watch?v=KQxHqdispDw">
+                  Childcare Worker
                 </a><br>
                 <a class="hvr" target="_blank"
-                   href="https://www.youtube.com/watch?v=di9vkOdMJvs">
-                  Cashier
-                </a><br>
-                <a class="hvr" target="_blank"
-                   href="https://www.youtube.com/watch?v=d1KSLCvhy80">
-                  Clinical Psychologist
-                </a><br>
-                <a class="hvr" target="_blank"
-                   href="https://www.youtube.com/watch?v=2sGBMoco83k">
-                  Nuclear Engineer
-                </a><br>
-                <a class="hvr" target="_blank"
-                   href="https://www.youtube.com/watch?v=o50PzLp9xAw">
-                  Tour Guide
-                </a><br>
-                <a class="hvr" target="_blank"
-                   href="https://www.youtube.com/watch?v=nuaCaiK2Mk4">
-                  Respiratory Therapist
-                </a><br>
-                <a class="hvr" target="_blank"
-                   href="https://www.youtube.com/watch?v=4VquAB7Usqo">
-                  Police Patrol Officer
+                   href="https://www.youtube.com/watch?v=plnShHf4sRE">
+                  Gaming Manager
                 </a><br>
                 <a class="hvr" target="_blank"
                    href="https://www.youtube.com/channel/UCbT2sCIu0n1q7gCEIXwHgCQ/videos">
@@ -128,7 +108,7 @@
                 </a><br>
               </div><!-- /.col-md-6 -->
               <div class="col-md-6">
-                <iframe width="100%" height="315" src="https://www.youtube.com/embed/t7URkKPDwRw?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                <iframe width="100%" height="315" src="https://www.youtube.com/embed/MVb4xqru-_k?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
               </div><!-- /.col-md-6 -->
             </div><!-- /.row -->
           </p>
