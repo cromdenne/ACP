@@ -99,6 +99,26 @@
           <h5>Resources</h5>
           <ul>
             <li>
+              <a class="hvr" href="https://docs.google.com/document/d/1uZSFRPVF0miaAIwhBsC9lwp6HJbay7pOrbhelf2Cw8g/edit?usp=sharing" target="_blank">
+                Creating an ACP Portfolio (Instructions)
+              </a>
+            </li>
+            <li>
+              <a class="hvr" href="https://docs.google.com/document/d/1kg_NTLOK_UznXxOhfLpQ4Did1c9H5g34ZdsEu0-WTyo/edit?usp=sharing" target="_blank">
+                Luxemburg-Casco ACP Portfolio Template
+              </a>
+            </li>
+            <li>
+              <a class="hvr" href="https://docs.google.com/document/d/1xhUPaMnAMqnITl9uhqZxDq6thWPMvDysmg7crGDui7g/edit?usp=sharing" target="_blank">
+                ACP Portfolio FAQ
+              </a>
+            </li>
+            <li>
+              <a class="hvr" href="https://docs.google.com/document/d/1I04t-zkqqPuUS3oEiE87-Xlhfdcwo9af01jdhsWiUbc/edit?usp=sharing" target="_blank">
+                New Community Service Hours Form
+              </a>
+            </li>
+            <li>
               <a class="hvr" href="https://www.agexplorer.com/" target="_blank">
                 Ag Explorer
               </a>
