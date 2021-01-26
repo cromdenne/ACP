@@ -130,9 +130,9 @@
             </li>
             <li>
               <a class="hvr"
-                 href="https://docs.google.com/document/d/16mfUbUeaqGYN9buJXLyaZcuFwuwz_LENmfVQ1P-wozE/edit?ts=5d120fd6#heading=h.tc9y1p6ut8mw"
+                 href="https://docs.google.com/document/d/18fRFnban90gJebR0rbyUtPpvb_Q6gIvC80cOd0xQ94o/edit?usp=sharing"
                  target="_blank">
-                L-C ACP 2019-2020 Annual Plan
+                L-C ACP 2020-2021 Annual Plan
               </a>
             </li>
           </ul>
