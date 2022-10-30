@@ -123,16 +123,16 @@
             </li>
             <li>
               <a class="hvr"
-                 href="https://docs.google.com/document/d/1ep2uxeeDnSMFZpjErTbtSGGBhU5YPLxUNiQrhM8JvRY/edit?usp=sharing"
+                 href="https://docs.google.com/document/d/1s5Fu-61xwW4fSUgvbQzRp92F9vK6tPIu13HaMJ0Q0Zo/edit#heading=h.xhqqgf9z40qb"
                  target="_blank">
-                L-C ACP Multi-Year Plan
+                L-C ACP 2022-2023 Annual Plan
               </a>
             </li>
             <li>
               <a class="hvr"
-                 href="https://docs.google.com/document/d/1VY8ccS1agNAN8QfJS6DnhI_7lldXpwJO-tyBE_mbdE8/edit?usp=sharing"
+                 href="https://docs.google.com/document/d/1k2AChW7WmXyEgA-YCEia0Y2OG7qxTbgz3T4aJDyLgYg/edit"
                  target="_blank">
-                L-C ACP 2021-2022 Annual Plan
+                Academic &amp; Career Planning Services PI-26
               </a>
             </li>
           </ul>
